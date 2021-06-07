@@ -29,7 +29,7 @@ I would welcome any reasonable contributions in the objective to create a compre
 
 ## Reference and ISO Standard 
 
-Release of the C++ Standard is quite a pricy document.
+Release of the C++ Standard is quite a pricey document.
 However, every C++ Standard has a number of drafts before the release, and usually, the last one is almost identical to the release document. The following links to the Standard refer to the last draft versions before the release
 
 * [C++14](https://raw.githubusercontent.com/cplusplus/draft/master/papers/n4296.pdf) 
