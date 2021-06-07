@@ -1,4 +1,4 @@
-# List of C++ books
+# The comprehensive list of C++ books
 
 ## Iterating over C++ books
 
