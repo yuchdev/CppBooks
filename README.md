@@ -5,7 +5,7 @@
 No secret, most of the C++ books on the market are for absolute beginners, and 90% of them are bad. Few good books for intermediate-to-advanced developers, but finding and advising a good read on C++ is almost a scientific problem.
 
 The same with attempts to create some C++ books catalog, here's an example of not the most optimal choice:
-[https://eduwyre.com/books/best-cpp-books](~~Best~~ C++ Books for Beginners and Advanced Level in 2021). Why so? Well, I do not consider books of series "one hour a day" or "for dummies" a worthy technical read. We all know the best way to learn C++ in 21 days
+[~~Best~~ C++ Books for Beginners and Advanced Level in 2021](https://eduwyre.com/books/best-cpp-books). Why so? Well, I do not consider books of series "one hour a day" or "for dummies" a worthy technical read. We all know the best way to learn C++ in 21 days
 
 [The best way to learn C++ in 21 days](https://hg1.funnyjunk.com/pictures/Learn+c+in+21+days_7ee339_3181601.jpg)
 
