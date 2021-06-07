@@ -150,7 +150,7 @@ Many C++20 features could be considered truly revolutionary, changing old good C
 
 ## Modern C Programming
 
-Our allies from the non-OOP world. The emphasis of selected books made on mew features of C, particularly on C11 and C17.
+Our allies from the non-OOP world. The emphasis of selected books made on new features of C, particularly on C11 and C17.
 
 * [Object-Oriented Programming With ANSI C](https://www.amazon.com/dp/B00930I6TK) (Axel Schreiner, 2011)
 * [Modern C](https://www.amazon.com/dp/1617295817) (Jens Gustedt, 2019)
