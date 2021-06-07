@@ -16,7 +16,7 @@ and it's totally fine.
 
 The next problem of C++ book lists is a diversity of C++ applied areas - C++ is a truly universal language, but every applied domain features a different approach and usually requires specific knowledge. System programming, game development, user- and kernel-space. Some books use C++ as a language of choice to solve the high-level problem, like algorithms and software design in C++.
 
-And finally, the comprehensive C++ list is expected to be up-to-date at lest with the last language Standard, and just with new interesting books  - [this](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) list is not bad, even though some choices are questionable, but it's already outdated, not including any books on C++20 one year after the new Standard release.
+And finally, the comprehensive C++ list is expected to be up-to-date at least with the last language Standard, and just with new interesting books  - [this](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) list is not bad, even though some choices are questionable, but it's already outdated, not including any books on C++20 one year after the new Standard release.
 The most effective way to achieve this state is a continuous community effort, that's why I choose Github as a medium of my C++ books list.
 
 
