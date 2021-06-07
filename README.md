@@ -1,6 +1,6 @@
 # The comprehensive catalog of C++ books
 
-## Iterating over C++ books
+## Intro: iterating over C++ books
 
 No secret, most of the C++ books on the market are for absolute beginners, and 90% of them are bad. Few good books for intermediate-to-advanced developers, but finding and advising a good read on C++ is almost a scientific problem.
 
