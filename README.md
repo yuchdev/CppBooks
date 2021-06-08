@@ -28,7 +28,6 @@
 22. [Game Development in C++](#gamedevelopmentinc)
 23. [Software Design and Design Patterns in C++](#softwaredesignanddesignpatternsinc)
 24. [Old and Classic books on C++](#oldandclassicbooksonc)
-    * [C++ catalog contributors](#ccatalogcontributors)
 
 ## Intro: iterating over C++ books
 
