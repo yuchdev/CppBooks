@@ -25,17 +25,17 @@ I was extremely upset myself by the fact I have to use references almost exclusi
 
 ### Contributions
 
-I would welcome any reasonable contributions in the objective to create a comprehensive and up-to-date catalog of C++ books, for all kinds of C++ programmers, with any professional background and experience. While using or replicating the content in any way, crediting the original author is necessary. 
+I would welcome any reasonable contributions in the objective to create a comprehensive and up-to-date catalog of C++ books, for all kinds of C++ programmers, with any professional background and experience. While using or replicating the content in any way, crediting the original author or authors is necessary. 
 
 ## Reference and ISO Standard 
 
-Release of the C++ Standard is quite a pricey document.
+The release of the C++ Standard is quite a pricey document.
 However, every C++ Standard has a number of drafts before the release, and usually, the last one is almost identical to the release document. The following links to the Standard refer to the last draft versions before the release
 
 * [C++14](https://raw.githubusercontent.com/cplusplus/draft/master/papers/n4296.pdf) 
 * [C++17](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4659.pdf)
 * [C++20](https://isocpp.org/files/papers/N4860.pdf)
-* [cppreference.com](https://en.cppreference.com/w/)
+* [cppreference.com](https://en.cppreference.com/w/) (and [offline version](https://en.cppreference.com/w/Cppreference:Archives))
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 * [ISO C++ FAQ](https://isocpp.org/faq)
 
@@ -94,16 +94,16 @@ If you have 5+ years of experience, you should add these books to your library a
 
 ## C++ Templates and Metaprogramming
 
-C++ "template magic" books, mostly up-to-date with at least C++17 Standard.
+C++ "template magic" books, mostly up-to-date with at least C++11 Standard.
 
 * [C++ Templates: The Complete Guide 2nd Edition](https://www.amazon.com/dp/0321714121) (David Vandevoorde, Nicolai Josuttis, 2017)
 * [C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond](https://www.amazon.com/dp/0321227255) (David Abrahams, Aleksey Gurtovoy, 2004)
 * [Advanced C++ Metaprogramming](https://www.amazon.com/dp/1460966163) (Davide Di Gennaro, 2011)
-* [https://www.oreilly.com/library/view/practical-c-metaprogramming/9781492042778/](https://www.oreilly.com/library/view/practical-c-metaprogramming/9781492042778/)
+* [Practical C++ Metaprogramming](https://www.oreilly.com/library/view/practical-c-metaprogramming/9781492042778/) (2016, Edouard Alligand, Joel Falcou)
 
 ## C++ Concurrency and Distributed Programming
 
-Having a “multithreaded” type of mindset if necessary, if you work with modern architectures. Average CPU may offer 4-12 cores on desktop, and 128-256 on a server, and experienced C++ developer absolutely should know, how to take advantage of these resources. Some books are updated with the C++17 Standards, some are just fundamental read on the topic.
+Having a “multithreaded” type of mindset if necessary, if you work with modern architectures. The average system may offer 4-12 cores on desktop, and 128-256 on a server, and an experienced C++ developer absolutely should know, how to take advantage of these resources. Some books are updated with the C++17 Standards, some are just fundamental read on the topic.
 
 * [C++ Concurrency in Action, Second Edition](https://www.amazon.com/dp/1617294691) (Anthony Williams, 2019)
 * [C++ Reactive Programming](https://www.amazon.com/dp/1788629779) (Praseed Pai, Peter Abraham, 2018)
@@ -113,17 +113,17 @@ Having a “multithreaded” type of mindset if necessary, if you work with mode
 
 ## Algorithms in C and C++
 
-Algorithms is a fundamental topic indeed, usually language-independent, and such books age very well. However, choosing C++ for studying algorithms could be a more convenient choice for developers, already experienced in C++.
+Algorithms is a fundamental topic indeed, usually language-independent, and such books age like a good wine - that's why following the last language Standard is not necessary here.
 
-* [Hacker's Delight](https://www.amazon.com/dp/0321842685) (Henry Warren, 2012)
 * [Implementing Useful Algorithms in C++](https://www.amazon.com/dp/B08PXHJCXY) (Dmytro Kedyk, 2020)
 * [Algorithms in C++ 3rd Edition](https://www.amazon.com/dp/020172684X) (Robert Sedgewick, 2001)
 * [Data Structures and Algorithms in C++ 2nd Edition](https://www.amazon.com/dp/0470383275) (Michael T. Goodrich, 2011)
 * [Data Structures & Algorithm Analysis in C++ 4th Edition](https://www.amazon.com/dp/013284737X) (Mark Weiss, 2013)
+* [Hacker's Delight](https://www.amazon.com/dp/0321842685) (Henry Warren, 2012)
 
 ## Latest Features Review: C++11/14
 
-Not much to add, books covering the first major push in C++ Standard, C++11/14.
+Not much to add, books covering the first major push in C++ language Standard, C++11/14.
 
 * [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.amazon.com/dp/1491903996) (Scott Meyers, 2014)
 * [Presentation Materials: Overview of the New C++ (C++11/14)](https://www.artima.com/shop/overview_of_the_new_cpp) (Scott Meyers, 2015)
@@ -152,15 +152,15 @@ Many C++20 features could be considered truly revolutionary, changing old good C
 
 Our allies from the non-OOP world. The emphasis of selected books made on new features of C, particularly on C11 and C17.
 
-* [Object-Oriented Programming With ANSI C](https://www.amazon.com/dp/B00930I6TK) (Axel Schreiner, 2011)
-* [Modern C](https://www.amazon.com/dp/1617295817) (Jens Gustedt, 2019)
 * [Effective C: An Introduction to Professional C Programming](https://www.amazon.com/dp/1718501048) (Robert C. Seacord, 2020)
-* [C Programming: A Modern Approach](https://www.amazon.com/dp/0393979504) (K. N. King, 2008)
+* [Modern C](https://www.amazon.com/dp/1617295817) (Jens Gustedt, 2019)
 * [Extreme C: Taking you to the limit in Concurrency, OOP, and the most advanced capabilities of C](https://www.amazon.com/dp/1789343623) (Kamran Amini, 2019)
+* [C Programming: A Modern Approach](https://www.amazon.com/dp/0393979504) (K. N. King, 2008)
+* [Object-Oriented Programming With ANSI C](https://www.amazon.com/dp/B00930I6TK) (Axel Schreiner, 2011)
 
 ## GUI Programming
 
-Books on C++ GUI frameworks and desktop programming in general, mostly featuring cross-platform approach, taking advantage of system-independent nature of C++.
+Books on C++ GUI frameworks and desktop programming in general. Some are featuring cross-platform approach, taking advantage of the system-independent nature of C++, some are Windows-specific.
 
 * [Qt5 C++ GUI Programming Cookbook](https://www.amazon.com/dp/1789803829) (Lee Zhi Eng, 2019)
 * [Mastering Qt 5](https://www.amazon.com/dp/1788995392) (Guillaume Lazar, 2018)
@@ -195,7 +195,7 @@ Kernel-level Windows programming. New approaches and technologies are provided w
 
 ## Linux System Programming
 
-System user-space programming for Linux and POSIX systems in general. Some are new books, some are new editions of classical books on Unix-like systems. The choice is considerably wider than similar books on Windows, and almost all APIs feature C interfaces.
+System user-space programming for Linux and POSIX systems in general. Some are new books, some are new editions of classical books on Unix-like systems. Practically all POSIX-like APIs feature C interfaces.
 
 * [Linux System Programming Techniques](https://www.amazon.com/dp/1789951283) (Jack-Benny Persson, 2021)
 * [The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com/dp/1593272200) (Michael Kerrisk, 2010)
@@ -209,7 +209,7 @@ System user-space programming for Linux and POSIX systems in general. Some are n
 
 ## Linux Kernel Programming
 
-The comprehensive reading list for Linux kernel-space programming.
+The comprehensive reading list for Linux kernel-space programming. The choice is considerably wider than similar books on Windows.
 
 * [Linux Kernel Development](https://www.amazon.com/dp/0672329468) (Jack-Benny Persson, 2021)
 * [Linux Kernel Networking: Implementation and Theory ](https://www.amazon.com/dp/143026196X) (Rami Rosen, 2013)
@@ -265,7 +265,7 @@ Game development could be considered as a derivative of C++ Computer Graphics, h
 
 ## Software Design and Design Patterns in C++
 
-C++ came a long way from the GoF book, released in 1994. Since then, some design patterns became just language features, some are changed beyond recognition - that's why it's vital to consider new language features, thinking of implementing a particular software design solution.
+Software design and architecture in C++ came a long way from the GoF book, released in 1994. Since then, some design patterns became just language features, some are changed beyond recognition - that's why it's vital to consider new language features, thinking of implementing a particular software design solution.
 
 * [Design Patterns in Modern C++](https://www.amazon.com/dp/1484236025) (Dmitri Nesteruk, 2018)
 * [Software Architecture with C++](https://www.packtpub.com/product/software-architecture-with-c/9781838554590) (Adrian Ostrowski , Piotr Gaczkowski, 2021)
@@ -285,5 +285,8 @@ No comments here. Some books are just valuable pieces of the history of C++ lang
 * [Thinking in C++, Volume 2: Practical Programming](https://www.amazon.com/dp/0130353132) (Bruce Eckel, 2003)
 * [The Boost Graph Library: User Guide and Reference Manual](https://www.amazon.com/dp/0201729148) (Jeremy G. Siek, Lie-Quan Lee, 2001)
 * [C++ for Real Programmers Revised Edition](https://www.amazon.com/dp/0120499428) (Jeff Alger, 1998)
+
+
+### C++ catalog contributors
 
 © 2021, [Yurii Cherkasov](https://github.com/yuchdev/)
