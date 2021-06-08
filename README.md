@@ -1,5 +1,35 @@
 # The comprehensive catalog of C++ books
 
+## Table of content
+
+1. [Intro: iterating over C++ books](#introiteratingovercbooks)
+    * [Controversy of Amazon as a primary reference](#controversyofamazonasaprimaryreference)
+    * [Contributions](#contributions)
+2. [Reference and ISO Standard ](#referenceandisostandard)
+3. [Beginner Books](#beginnerbooks)
+4. [Beginner to C++](#beginnertoc)
+5. [General Books on C++](#generalbooksonc)
+6. [Advanced Books on C++](#advancedbooksonc)
+7. [C++ Templates and Metaprogramming](#ctemplatesandmetaprogramming)
+8. [C++ Concurrency and Distributed Programming](#cconcurrencyanddistributedprogramming)
+9. [Algorithms in C and C++](#algorithmsincandc)
+10. [Latest Features Review: C++11/14](#latestfeaturesreviewc1114)
+11. [Latest Features Review: C++17](#latestfeaturesreviewc17)
+12. [Latest Features Review: C++20](#latestfeaturesreviewc20)
+13. [Modern C Programming](#moderncprogramming)
+14. [GUI Programming](#guiprogramming)
+15. [Windows System Programming](#windowssystemprogramming)
+16. [Windows Kernel Programming](#windowskernelprogramming)
+17. [Linux System Programming](#linuxsystemprogramming)
+18. [Linux Kernel Programming](#linuxkernelprogramming)
+19. [Linux Embedded Programming](#linuxembeddedprogramming)
+20. [Network Programming](#networkprogramming)
+21. [Computer Graphics in C++](#computergraphicsinc)
+22. [Game Development in C++](#gamedevelopmentinc)
+23. [Software Design and Design Patterns in C++](#softwaredesignanddesignpatternsinc)
+24. [Old and Classic books on C++](#oldandclassicbooksonc)
+    * [C++ catalog contributors](#ccatalogcontributors)
+
 ## Intro: iterating over C++ books
 
 No secret, most of the C++ books on the market are for absolute beginners, and 90% of them are bad. Few good books for intermediate-to-advanced developers, but finding and advising a good read on C++ is almost a scientific problem.
