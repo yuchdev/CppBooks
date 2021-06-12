@@ -2,8 +2,8 @@
 
 ## Table of content
 
-1. [Intro: iterating over C++ books](#introiteratingovercbooks)
-    * [Controversy of Amazon as a primary reference](#controversyofamazonasaprimaryreference)
+1. [Intro: iterating over C++ books](#intro-iterating-over-c-books)
+    * [Controversy of Amazon as a primary reference](#controversy-of-amazonas-ap-rimaryreference)
     * [Contributions](#contributions)
 2. [Reference and ISO Standard ](#referenceandisostandard)
 3. [Beginner Books](#beginnerbooks)
