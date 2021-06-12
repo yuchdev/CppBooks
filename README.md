@@ -26,7 +26,7 @@
 20. [Network Programming](#network-programming)
 21. [Computer Graphics in C++](#computer-graphics-in-c)
 22. [Game Development in C++](#game-development-in-c)
-23. [Software Design and Design Patterns in C++](#software-design-and-design-patterns-in-c)
+23. [Software Design in C++](#software-design-in-c)
 24. [Old and Classic books on C++](#old-and-classic-books-on-c)
 
 ## Intro: iterating over C++ books
