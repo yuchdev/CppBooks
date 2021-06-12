@@ -292,7 +292,7 @@ Game development could be considered as a derivative of C++ Computer Graphics, h
 * [Unreal Engine 4 Virtual Reality Projects](https://www.amazon.com/dp/1789132878) (Kevin Mack, 2019)
 * [Unreal Engine 4 Scripting with C++ Cookbook](https://www.packtpub.com/product/unreal-engine-4-scripting-with-c-cookbook/9781785885549) (William Sherif , Stephen Whittle, 2016)
 
-## Software Design and Design Patterns in C++
+## Software Design in C++
 
 Software design and architecture in C++ came a long way from the GoF book, released in 1994. Since then, some design patterns became just language features, some are changed beyond recognition - that's why it's vital to consider new language features, thinking of implementing a particular software design solution.
 
