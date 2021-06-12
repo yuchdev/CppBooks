@@ -3,7 +3,7 @@
 ## Table of content
 
 1. [Intro: iterating over C++ books](#intro-iterating-over-c-books)
-    * [Controversy of Amazon as a primary reference](#controversy-of-amazonas-a-primary-reference)
+    * [Controversy of Amazon as a primary reference](#controversy-of-amazon-as-a-primary-reference)
     * [Contributions](#contributions)
 2. [Reference and ISO Standard ](#reference-and-iso-standard)
 3. [Beginner Books](#beginner-to-programming)
@@ -15,7 +15,7 @@
 9. [Algorithms in C and C++](#algorithms-in-c-and-c)
 10. [Latest Features Review: C++11/14](#latest-features-review-c1114)
 11. [Latest Features Review: C++17](#latest-features-review-c17)
-12. [Latest Features Review: C++20](#latestfeatures-review-c20)
+12. [Latest Features Review: C++20](#latest-features-review-c20)
 13. [Modern C Programming](#modern-c-programming)
 14. [GUI Programming](#gui-programming)
 15. [Windows System Programming](#windows-system-programming)
