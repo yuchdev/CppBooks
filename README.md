@@ -314,8 +314,3 @@ No comments here. Some books are just valuable pieces of the history of C++ lang
 * [Thinking in C++, Volume 2: Practical Programming](https://www.amazon.com/dp/0130353132) (Bruce Eckel, 2003)
 * [The Boost Graph Library: User Guide and Reference Manual](https://www.amazon.com/dp/0201729148) (Jeremy G. Siek, Lie-Quan Lee, 2001)
 * [C++ for Real Programmers Revised Edition](https://www.amazon.com/dp/0120499428) (Jeff Alger, 1998)
-
-
-### C++ catalog contributors
-
-© 2021, [Yurii Cherkasov](https://github.com/yuchdev/)
