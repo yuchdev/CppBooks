@@ -3,31 +3,31 @@
 ## Table of content
 
 1. [Intro: iterating over C++ books](#intro-iterating-over-c-books)
-    * [Controversy of Amazon as a primary reference](#controversy-of-amazonas-ap-rimaryreference)
+    * [Controversy of Amazon as a primary reference](#controversy-of-amazonas-a-primary-reference)
     * [Contributions](#contributions)
-2. [Reference and ISO Standard ](#referenceandisostandard)
-3. [Beginner Books](#beginnerbooks)
-4. [Beginner to C++](#beginnertoc)
-5. [General Books on C++](#generalbooksonc)
-6. [Advanced Books on C++](#advancedbooksonc)
-7. [C++ Templates and Metaprogramming](#ctemplatesandmetaprogramming)
-8. [C++ Concurrency and Distributed Programming](#cconcurrencyanddistributedprogramming)
-9. [Algorithms in C and C++](#algorithmsincandc)
-10. [Latest Features Review: C++11/14](#latestfeaturesreviewc1114)
-11. [Latest Features Review: C++17](#latestfeaturesreviewc17)
-12. [Latest Features Review: C++20](#latestfeaturesreviewc20)
-13. [Modern C Programming](#moderncprogramming)
-14. [GUI Programming](#guiprogramming)
-15. [Windows System Programming](#windowssystemprogramming)
-16. [Windows Kernel Programming](#windowskernelprogramming)
-17. [Linux System Programming](#linuxsystemprogramming)
-18. [Linux Kernel Programming](#linuxkernelprogramming)
-19. [Linux Embedded Programming](#linuxembeddedprogramming)
-20. [Network Programming](#networkprogramming)
-21. [Computer Graphics in C++](#computergraphicsinc)
-22. [Game Development in C++](#gamedevelopmentinc)
-23. [Software Design and Design Patterns in C++](#softwaredesignanddesignpatternsinc)
-24. [Old and Classic books on C++](#oldandclassicbooksonc)
+2. [Reference and ISO Standard ](#reference-and-iso-standard)
+3. [Beginner Books](#beginner-to-programming)
+4. [Beginner to C++](#beginner-to-c)
+5. [General Books on C++](#general-books-on-c)
+6. [Advanced Books on C++](#advanced-books-on-c)
+7. [C++ Templates and Metaprogramming](#c-templates-and-metaprogramming)
+8. [C++ Concurrency and Distributed Programming](#c-concurrency-and-distributed-programming)
+9. [Algorithms in C and C++](#algorithms-in-c-and-c)
+10. [Latest Features Review: C++11/14](#latest-features-review-c1114)
+11. [Latest Features Review: C++17](#latest-features-review-c17)
+12. [Latest Features Review: C++20](#latestfeatures-review-c20)
+13. [Modern C Programming](#modern-c-programming)
+14. [GUI Programming](#gui-programming)
+15. [Windows System Programming](#windows-system-programming)
+16. [Windows Kernel Programming](#windows-kernel-programming)
+17. [Linux System Programming](#linux-system-programming)
+18. [Linux Kernel Programming](#linux-kernel-programming)
+19. [Linux Embedded Programming](#linux-embedded-programming)
+20. [Network Programming](#network-programming)
+21. [Computer Graphics in C++](#computer-graphics-in-c)
+22. [Game Development in C++](#game-development-in-c)
+23. [Software Design and Design Patterns in C++](#software-design-and-design-patterns-in-c)
+24. [Old and Classic books on C++](#old-and-classic-books-on-c)
 
 ## Intro: iterating over C++ books
 
@@ -68,7 +68,7 @@ However, every C++ Standard has a number of drafts before the release, and usual
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 * [ISO C++ FAQ](https://isocpp.org/faq)
 
-## Beginner Books
+## Beginner to Programming
 
 There's not much to add - books for beginners to C++, and probably to programming in general.
 
