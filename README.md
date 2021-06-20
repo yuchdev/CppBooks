@@ -74,7 +74,7 @@ There's not much to add - books for beginners to C++, and probably to programmin
 
 * [C++ Primer 5th Edition](https://www.amazon.com/dp/0321714113) (Stanley B. Lippman, 2012)
 * [Programming: Principles and Practice Using C++ 2nd Edition](https://www.amazon.com/dp/0321992784) (Bjarne Stroustrup, 2014)
-* [Beginning C++ Through Game Programming 3rd Edition](https://www.amazon.com/dp/1435457420) (Michael Dawson, 2010)
+* [Beginning C++ Through Game Programming 4th Edition](https://www.amazon.com/dp/B00LZW07P0) (Michael Dawson, 2014)
 * [Beginning C++ Game Programming](https://www.amazon.com/dp/1838648577) (John Horton, 2019)
 * [Starting Out with C++ from Control Structures to Objects](https://www.amazon.com/dp/0134498372) (Tony Gaddis, 2017)
 * [C++ How to Program 10th Edition](https://www.amazon.com/dp/0134448235) (Paul Deitel, Harvey Deitel, 2016)
@@ -126,7 +126,6 @@ If you have 5+ years of experience, you should add these books to your library a
 C++ "template magic" books, mostly up-to-date with at least C++11 Standard.
 
 * [C++ Templates: The Complete Guide 2nd Edition](https://www.amazon.com/dp/0321714121) (David Vandevoorde, Nicolai Josuttis, 2017)
-* [C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond](https://www.amazon.com/dp/0321227255) (David Abrahams, Aleksey Gurtovoy, 2004)
 * [Advanced C++ Metaprogramming](https://www.amazon.com/dp/1460966163) (Davide Di Gennaro, 2011)
 * [Practical C++ Metaprogramming](https://www.oreilly.com/library/view/practical-c-metaprogramming/9781492042778/) (2016, Edouard Alligand, Joel Falcou)
 
@@ -268,7 +267,6 @@ C/C++ network programming is an extremely important area of knowledge, due to th
 
 These books cover cross-platform APIs for rendering 2D and 3D graphics. All graphical system-level APIs, both modern and legacy, offer either C (OpenGL) or C++ (Direct3D) interfaces. The reason is again, the exceptional performance of C/C++ and the ability to squeeze the maximum of available graphical hardware.
 
-* [Learn OpenGL](https://www.amazon.com/dp/9090332561) (Joey de Vries, 2020)
 * [OpenGL 4 Shading Language Cookbook](https://www.amazon.com/dp/1789342252) (David Wolff, 2020)
 * [Computer Graphics Programming in OpenGL with C++](https://www.amazon.com/dp/1683922212) (V. Scott Gordon, 2018)
 * [Learn OpenGL](https://www.amazon.com/dp/9090332561) (Joey de Vries, 2020)
@@ -280,7 +278,6 @@ These books cover cross-platform APIs for rendering 2D and 3D graphics. All grap
 Game development could be considered as a derivative of C++ Computer Graphics, however, game development is much more than just graphics. The selected read covers different aspects of C++ Game Programming, from guides on how to enter the industry to popular C++ Game Engines. Even though other languages, like C# or Python, currently share the market with C++ frameworks, all AAA titles are still being developed in C++.
 
 * [C++ Game Development By Example](https://www.amazon.com/dp/B07RG9H8CR) (Joey de Vries, 2020)
-* [Beginning C++ Game Programming](https://www.packtpub.com/product/beginning-c-game-programming/9781786466198) (John Horton, 2016)
 * [Foundations of Game Engine Development (2 books)](https://www.amazon.com/dp/B087C1X587) (Eric Lengyel, 2020)
 * [Game Programming Patterns](https://www.amazon.com/dp/0990582906) (Robert Nystrom, 2014)
 * [Hands-On C++ Game Animation Programming](https://www.amazon.com/dp/1800208081) (Gabor Szauer, 2020)
@@ -308,6 +305,7 @@ No comments here. Some books are just valuable pieces of the history of C++ lang
 * [Modern C++ Design: Generic Programming and Design Patterns Applied](https://www.amazon.com/dp/0201704315) (Andrei Alexandrescu, 2001)
 * [Advanced C++ Programming Styles and Idioms](https://www.amazon.com/dp/0201548550) (James O. Coplien, 1991)
 * [Large-Scale C++ Software Design](https://www.amazon.com/dp/0201633620) (John Lakos, 1996)
+* [C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond](https://www.amazon.com/dp/0321227255) (David Abrahams, Aleksey Gurtovoy, 2004)
 * [Thinking in C++, Vol. 1: Introduction to Standard C++](https://www.amazon.com/dp/0139798099) (Bruce Eckel, 2000)
 * [Thinking in C++, Volume 2: Practical Programming](https://www.amazon.com/dp/0130353132) (Bruce Eckel, 2003)
 * [The Boost Graph Library: User Guide and Reference Manual](https://www.amazon.com/dp/0201729148) (Jeremy G. Siek, Lie-Quan Lee, 2001)
