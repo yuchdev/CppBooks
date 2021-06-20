@@ -193,7 +193,6 @@ Books on C++ GUI frameworks and desktop programming in general. Some are featuri
 * [Qt5 C++ GUI Programming Cookbook](https://www.amazon.com/dp/1789803829) (Lee Zhi Eng, 2019)
 * [Mastering Qt 5](https://www.amazon.com/dp/1788995392) (Guillaume Lazar, 2018)
 * [Programming Windows 10 Via UWP](https://www.amazon.com/dp/1973438771) (Roger Deutsch, 2017)
-* [Windows Template Library](http://www.viksoe.dk/code/wtldoc.htm) (Online documentation)
 
 ## Windows System Programming
 
