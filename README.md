@@ -162,7 +162,6 @@ Not much to add, books covering the first major push in C++ language Standard, C
 The next major update, introducing many important features and changing old paradigms and approaches.
 
 * [C++17 STL Cookbook](https://www.amazon.com/dp/B01MTSADN8) (Jacek Galowicz, 2017)
-* [A Tour of C++ 2nd Edition](https://www.amazon.com/dp/0134997832) (Bjarne Stroustrup, 2018)
 * [C++17 in Detail](https://leanpub.com/cpp17indetail) (Bartłomiej Filipek, 2019)
 * [C++17 The Complete Guide](https://leanpub.com/cpp17) (Nicolai M. Josuttis, 2020)
 * [The Modern C++ Challenge](https://www.amazon.com/dp/1788993861) (Marius Bancila, 2018)
@@ -259,7 +258,7 @@ Linux embedded programming, kernel-level with some restrictive specific.
 
 ## Network Programming
 
-C++ network programming is an extremely important area of knowledge, due to the exceptional performance of C++ and implementation of high-loaded client-server solutions. The subject has a slight lean towards Linux, but without many system-specific features, and could be considered almost totally cross-platform.
+C/C++ network programming is an extremely important area of knowledge, due to their exceptional performance and implementation of high-loaded client-server solutions. The subject has a slight lean towards Linux, but without many system-specific features, and could be considered almost totally cross-platform.
 
 * [Boost.Asio C++ Network Programming Cookbook](https://www.packtpub.com/product/boost-asio-c-network-programming-cookbook/9781783986545) (Dmytro Radchuk, 2016)
 * [Boost.Asio C++ Network Programming 2nd Edition](https://www.packtpub.com/product/boost-asio-c-network-programming-second-edition/9781785283079) (Wisnu Anggoro , John Torjo, 2015)
