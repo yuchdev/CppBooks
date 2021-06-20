@@ -300,13 +300,13 @@ Software design and architecture in C++ came a long way from the GoF book, relea
 
 No comments here. Some books are just valuable pieces of the history of C++ language, some still keep never-aging ideas and solutions.
 
+* [Advanced C++ Programming Styles and Idioms](https://www.amazon.com/dp/0201548550) (James O. Coplien, 1991)
 * [Design and Evolution of C++](https://www.amazon.com/dp/0201543303) (Bjarne Stroustrup, 1994)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/dp/0201633612) (GoF, 1994)
-* [Modern C++ Design: Generic Programming and Design Patterns Applied](https://www.amazon.com/dp/0201704315) (Andrei Alexandrescu, 2001)
-* [Advanced C++ Programming Styles and Idioms](https://www.amazon.com/dp/0201548550) (James O. Coplien, 1991)
 * [Large-Scale C++ Software Design](https://www.amazon.com/dp/0201633620) (John Lakos, 1996)
-* [C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond](https://www.amazon.com/dp/0321227255) (David Abrahams, Aleksey Gurtovoy, 2004)
+* [C++ for Real Programmers Revised Edition](https://www.amazon.com/dp/0120499428) (Jeff Alger, 1998)
 * [Thinking in C++, Vol. 1: Introduction to Standard C++](https://www.amazon.com/dp/0139798099) (Bruce Eckel, 2000)
 * [Thinking in C++, Volume 2: Practical Programming](https://www.amazon.com/dp/0130353132) (Bruce Eckel, 2003)
 * [The Boost Graph Library: User Guide and Reference Manual](https://www.amazon.com/dp/0201729148) (Jeremy G. Siek, Lie-Quan Lee, 2001)
-* [C++ for Real Programmers Revised Edition](https://www.amazon.com/dp/0120499428) (Jeff Alger, 1998)
+* [Modern C++ Design: Generic Programming and Design Patterns Applied](https://www.amazon.com/dp/0201704315) (Andrei Alexandrescu, 2001)
+* [C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond](https://www.amazon.com/dp/0321227255) (David Abrahams, Aleksey Gurtovoy, 2004)
