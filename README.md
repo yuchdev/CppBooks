@@ -54,7 +54,7 @@ I was extremely upset myself by the fact I have to use references almost exclusi
 
 ### Contributions
 
-I would welcome any reasonable contributions in the objective to create a comprehensive and up-to-date catalog of C++ books, for all kinds of C++ programmers, with any professional background and experience. While using or replicating the content, MIT license is applied.
+I would welcome any reasonable contributions in the objective to create a comprehensive and up-to-date catalog of C++ books, for all kinds of C++ programmers, with any professional background and experience. While using or replicating the content, a Creative Commons Attribution-NonCommercial 4.0 International License is applied.
 
 ## Reference and ISO Standard 
 
