@@ -312,3 +312,5 @@ No comments here. Some books are just valuable pieces of the history of C++ lang
 * [The Boost Graph Library: User Guide and Reference Manual](https://www.amazon.com/dp/0201729148) (Jeremy G. Siek, Lie-Quan Lee, 2001)
 * [Modern C++ Design: Generic Programming and Design Patterns Applied](https://www.amazon.com/dp/0201704315) (Andrei Alexandrescu, 2001)
 * [C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond](https://www.amazon.com/dp/0321227255) (David Abrahams, Aleksey Gurtovoy, 2004)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
