@@ -107,7 +107,6 @@ If you have 5+ years of experience, you should add these books to your library a
 
 * [C++ Common Knowledge: Essential Intermediate Programming](https://www.amazon.com/dp/0321321928) (Stephen C. Dewhurst)
 * [Professional C++ 5th Edition](https://www.amazon.com/dp/1119695406/) (Marc Gregoire, 2012)
-* [C++ High Performance: Boost and optimize the performance of your C++17 code](https://www.amazon.com/dp/B01MZX1E3Q) (Björn Andrist, 2018)
 * [Functional Programming in C++: How to improve your C++ programs using functional techniques](https://www.amazon.com/dp/1617293814) (Ivan Cukic, 2018)
 * [C++ High Performance: Master the art of optimizing the functioning of your C++ code 2nd Edition](https://www.amazon.com/dp/1839216549) (Björn Andrist, 2020)
 * [Memory Management Algorithms And Implementation In C/C++](https://www.amazon.com/dp/1556223471) (Bill Blunden, 2002)
