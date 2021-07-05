@@ -203,7 +203,7 @@ Windows "under the hood" programming. Some books may seem old, but in fact, none
 * [Windows Via C/C++ Reprint Edition](https://www.amazon.com/dp/0135953391) (Pavel Yosifovich, Jeffrey M. Richter, 2019)
 * [C++ Windows Programming](https://www.packtpub.com/product/c-windows-programming/9781786464224) (Stefan Björnander, 2016)
 * [Windows 10 System Programming, Part 1](https://www.amazon.com/dp/B086Y6M7LH) (Pavel Yosifovich, 2020)
-* [Windows 10 System Programming, Part 2](https://leanpub.com/windows10systemprogrammingpart2) (Pavel Yosifovich, 70% complete at the moment)
+* [Windows 10 System Programming, Part 2](https://leanpub.com/windows10systemprogrammingpart2) (Pavel Yosifovich, 85% complete at the moment)
 * [Programming Windows 6th Edition](https://www.amazon.com/dp/B00JDMPJ8E) (Charles Petzold, 2013)
 * [Windows System Programming 4th Edition](https://www.amazon.com/dp/0321657748) (Johnson M. Hart, 2010)
 * [Programming Windows Security](https://www.amazon.com/dp/0201604426) (Keith Brown, 2010)
