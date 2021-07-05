@@ -85,6 +85,7 @@ These books (well, one book so far) are for software developers with some experi
 and willing to become familiar with C++
 
 * [A Tour of C++ 2nd Edition](https://www.amazon.com/dp/0134997832) (Bjarne Stroustrup, 2018)
+* [C and C++ Under the Hood](https://www.amazon.com/dp/1793302898/) (Anthony J. Dos Reis, 2019)
 
 ## General Books on C++
 
@@ -105,7 +106,6 @@ These books could be considered a "must-read" list for any kind of C++ programme
 
 If you have 5+ years of experience, you should add these books to your library as well. Again, some books may contain outdated features and approaches, but in the general picture, they still provide extremely valuable knowledge.
 
-* [C++ Common Knowledge: Essential Intermediate Programming](https://www.amazon.com/dp/0321321928) (Stephen C. Dewhurst)
 * [Professional C++ 5th Edition](https://www.amazon.com/dp/1119695406/) (Marc Gregoire, 2012)
 * [C++ High Performance: Boost and optimize the performance of your C++17 code](https://www.amazon.com/dp/B01MZX1E3Q) (Björn Andrist, 2018)
 * [Functional Programming in C++: How to improve your C++ programs using functional techniques](https://www.amazon.com/dp/1617293814) (Ivan Cukic, 2018)
@@ -115,6 +115,7 @@ If you have 5+ years of experience, you should add these books to your library a
 * [Optimizing subroutines in assembly language: An optimization guide for x86 platforms](https://www.agner.org/optimize/optimizing_assembly.pdf) (pdf) (Agner Fog, 2004)
 * [Calling conventions for different C++ compilers and operating systems](https://www.agner.org/optimize/calling_conventions.pdf) (pdf) (Agner Fog, 2004)
 * [What Every Programmer Should Know About Memory](https://www.gwern.net/docs/cs/2007-drepper.pdf) (pdf) (Ulrich Drepper, 2007)
+* [C++ Common Knowledge: Essential Intermediate Programming](https://www.amazon.com/dp/0321321928) (Stephen C. Dewhurst, 2005)
 * [C++ Cookbook: Solutions and Examples for C++ Programmers](https://www.amazon.com/dp/0596007612) (D. Ryan Stephens, 2005)
 * [Design Patterns in Modern C++: Reusable Approaches for Object-Oriented Software Design](https://www.amazon.com/dp/B07CH9SRDR) (Dmitri Nesteruk, 2018)
 * [Learning Boost C++ Libraries](https://www.packtpub.com/product/learning-boost-c-libraries/9781783551217) (Arindam Mukherjee, 2015)
@@ -297,6 +298,7 @@ Software design and architecture in C++ came a long way from the GoF book, relea
 * [Software Architecture with C++](https://www.packtpub.com/product/software-architecture-with-c/9781838554590) (Adrian Ostrowski , Piotr Gaczkowski, 2021)
 * [Large-Scale C++ Volume I: Process and Architecture](https://www.amazon.com/dp/0201717069) (John Debbie Lafferty, 2019)
 * [Large-Scale C++ Volume II: Design and Implementation](https://www.amazon.com/dp/0134694694) (John Debbie Lafferty, 2021)
+* [API Design for C++](https://www.amazon.com/dp/B004NNUZ6O/) (Martin Reddy, 2011)
 
 ## Old and Classic books on C++
 
