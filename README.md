@@ -81,7 +81,7 @@ There's not much to add - books for beginners to C++, and probably to programmin
 
 ## Beginner to C++
 
-These books (well, one book so far) are for software developers with some experience in other languages,
+These books are for software developers with some experience in other languages,
 and willing to become familiar with C++
 
 * [A Tour of C++ 2nd Edition](https://www.amazon.com/dp/0134997832) (Bjarne Stroustrup, 2018)
