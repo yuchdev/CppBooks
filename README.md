@@ -149,6 +149,7 @@ Algorithms is a fundamental topic indeed, usually language-independent, and such
 * [Data Structures and Algorithms in C++ 2nd Edition](https://www.amazon.com/dp/0470383275) (Michael T. Goodrich, 2011)
 * [Data Structures & Algorithm Analysis in C++ 4th Edition](https://www.amazon.com/dp/013284737X) (Mark Weiss, 2013)
 * [Hacker's Delight](https://www.amazon.com/dp/0321842685) (Henry Warren, 2012)
+* [Elements of Programming Interviews](https://www.amazon.com/dp/1479274836) (Adnan Aziz, 2012)
 
 ## Latest Features Review: C++11/14
 
