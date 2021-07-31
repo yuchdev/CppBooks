@@ -291,6 +291,7 @@ Game development could be considered as a derivative of C++ Computer Graphics, h
 * [Unreal Engine 4 Game Development Quick Start Guide](https://www.amazon.com/dp/1789950686) (Rachel Cordone, 2019)
 * [Unreal Engine 4 Virtual Reality Projects](https://www.amazon.com/dp/1789132878) (Kevin Mack, 2019)
 * [Unreal Engine 4 Scripting with C++ Cookbook](https://www.packtpub.com/product/unreal-engine-4-scripting-with-c-cookbook/9781785885549) (William Sherif , Stephen Whittle, 2016)
+* [Unreal Engine C++ the Ultimate Developer's Handbook](https://www.amazon.com/dp/B089M2H7J1) (Stephen Seth Ulibarri, 2020)
 
 ## Software Design and Design Patterns in C++
 
