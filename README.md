@@ -138,6 +138,7 @@ Having a “multithreaded” type of mindset if necessary, if you work with mode
 * [Parallel and Distributed Programming Using C++](https://www.amazon.com/dp/0131013769/) (Cameron Hughes, 2003)
 * [The Art of Multiprocessor Programming 2nd Edition](https://www.amazon.com/dp/0124159508) (Maurice Herlihy, 2020)
 * [C++ Multithreading Cookbook](https://www.packtpub.com/product/c-multithreading-cookbook/9781783289790) (Miloš Ljumović, 2014)
+* [Concurrency with Modern C++](https://leanpub.com/concurrencywithmodernc) (Rainer Grimm, 2021)
 
 ## Algorithms in C and C++
 
@@ -170,10 +171,11 @@ The next major update, introducing many important features and changing old para
 
 Many C++20 features could be considered truly revolutionary, changing old good C++ almost beyond recognition.
 
-* [The C++ Standard Library](https://leanpub.com/cpplibrary) (Rainer Grimm, 2021)
+* [C++ 20](https://leanpub.com/c20) (Rainer Grimm, 2021)
 * [C++ Lambda Story: Everything you need to know about Lambda Expressions in Modern C++](https://www.amazon.com/dp/B08VLM1R76) (Bartlomiej Filipek, 2021)
 * [Modern C++ Programming Cookbook](https://www.amazon.com/dp/1800208987) (Marius Bancila, 2020)
 * [Exploring C++20: The Programmer's Introduction to C++](https://www.amazon.com/dp/1484259602) (Ray Lischner, 2020)
+* [The C++ Standard Library](https://leanpub.com/cpplibrary) (Rainer Grimm, 2021)
 
 ## Modern C Programming
 
