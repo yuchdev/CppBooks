@@ -250,7 +250,7 @@ The comprehensive reading list for Linux kernel-space programming. The choice is
 * [Linux Device Drivers Development: Develop customized drivers for embedded Linux](https://www.amazon.com/dp/1785280007) (John Madieu, 2017)
 * [Linux Device Driver Development Cookbook](https://www.amazon.com/dp/1838558802) (Rodolfo Giometti, 2019)
 
-## Linux Embedded Programming
+## C++ Embedded Programming
 
 Linux embedded programming, kernel-level with some restrictive specific.
 
