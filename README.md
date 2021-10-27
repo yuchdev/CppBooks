@@ -252,7 +252,7 @@ The comprehensive reading list for Linux kernel-space programming. The choice is
 
 ## C++ Embedded Programming
 
-Linux embedded programming, kernel-level with some restrictive specific.
+C++ embedded programming, kernel-level with some restrictive specific.
 
 * [Mastering Embedded Linux Programming](https://www.amazon.com/dp/1784392537) (Chris Simmonds, 2015)
 * [Mastering Embedded Linux Programming: Unleash the full potential of Embedded Linux](https://www.amazon.com/dp/1787283283) (Chris Simmonds, 2017)
