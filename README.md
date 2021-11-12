@@ -121,6 +121,7 @@ If you have 5+ years of experience, you should add these books to your library a
 * [Boost C++ Application Development Cookbook](https://www.packtpub.com/product/boost-c-application-development-cookbook/9781849514880) (Antony Polukhin, 2013)
 * [Software Optimization Resources by Agner Fog](https://www.agner.org/optimize/)
 * [C++ Best Practices](https://github.com/yuchdev/CppBooks) (Jason Turner, 2021)
+* [Embracing Modern C++Safely](https://www.amazon.com/dp/0137380356) (John Lakos, Vittorio Romeo, Rostislav Khlebnikov, Alisdair Meredith, 2021)
 
 ## C++ Templates and Metaprogramming
 
