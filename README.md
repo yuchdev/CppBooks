@@ -179,6 +179,7 @@ Many C++20 features could be considered truly revolutionary, changing old good C
 * [Modern C++ Programming Cookbook](https://www.amazon.com/dp/1800208987) (Marius Bancila, 2020)
 * [Exploring C++20: The Programmer's Introduction to C++](https://www.amazon.com/dp/1484259602) (Ray Lischner, 2020)
 * [The C++ Standard Library](https://leanpub.com/cpplibrary) (Rainer Grimm, 2021)
+* [Programming with C++20](https://leanpub.com/programming-with-cpp20) (Andreas Fertig, 2021)
 
 ## Modern C Programming
 
