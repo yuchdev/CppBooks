@@ -163,7 +163,7 @@ Not much to add, books covering the first major push in C++ language Standard, C
 
 ## Latest Features Review: C++17
 
-The next major update, introducing many important features and changing old paradigms and approaches.
+The next major update, C++17 introducing many important features and changing old paradigms and approaches.
 
 * [C++17 STL Cookbook](https://www.amazon.com/dp/B01MTSADN8) (Jacek Galowicz, 2017)
 * [C++17 in Detail](https://leanpub.com/cpp17indetail) (Bartłomiej Filipek, 2019)
