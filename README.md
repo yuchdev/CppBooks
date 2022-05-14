@@ -59,7 +59,9 @@ I would welcome any reasonable contributions in the objective to create a compre
 
 ### Expressing your gratitude
 
-I created this catalog and keep maintaining it in my spare time. If you wish to thank me for my efforts, you always can [buy me a coffee](https://www.buymeacoffee.com/strategari6)
+I created this catalog and keep maintaining it in my spare time. If you wish to thank me for my efforts, you always can buy me a coffee.
+
+<a href="https://www.buymeacoffee.com/strategari6" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Reference and ISO Standard 
 
