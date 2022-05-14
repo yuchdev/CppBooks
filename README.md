@@ -183,6 +183,7 @@ Many C++20 features could be considered truly revolutionary, changing old good C
 * [The C++ Standard Library](https://leanpub.com/cpplibrary) (Rainer Grimm, 2021)
 * [Programming with C++20](https://leanpub.com/programming-with-cpp20) (Andreas Fertig, 2021)
 * [C++20 - The Complete Guide](https://leanpub.com/cpp20) (Nicolai M. Josuttis, the book is 90% complete as of May 2022)
+* [C++ Concepts](https://leanpub.com/cppconcepts) (Sandor Dargo, 2022)
 
 ## Modern C Programming
 
