@@ -99,8 +99,7 @@ and willing to become familiar with C++
 
 These books could be considered a "must-read" list for any kind of C++ programmer. Some of them are a bit outdated, as they cover previous versions of the C++ Standard - in this case, just skip outdated content, or better re-implement it using new features of the language.
 
-* [Effective C++: 55 Specific Ways to Improve Your Programs and Designs](https://www.amazon.com/dp/0321334876) (Scott Meyers, 2005)
-* [More Effective C++: 35 New Ways to Improve Your Programs and Designs](https://www.amazon.com/dp/020163371X) (Scott Meyers, 1996)
+* [Effective C++: 55 Specific Ways to Improve Your Programs and Designs 3rd Edition](https://www.amazon.com/dp/0321334876) (Scott Meyers, 2005)
 * [Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library](https://www.amazon.com/dp/0201749629) (Scott Meyers, 2001)
 * [Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions](https://www.amazon.com/dp/0201615622) (Herb Sutter, 1999)
 * [More Exceptional C++: 40 New Engineering Puzzles, Programming Problems, and Solutions](https://www.amazon.com/dp/020170434X) (Herb Sutter, 2001)
@@ -127,7 +126,6 @@ If you have 5+ years of experience, you should add these books to your library a
 * [Design Patterns in Modern C++: Reusable Approaches for Object-Oriented Software Design](https://www.amazon.com/dp/B07CH9SRDR) (Dmitri Nesteruk, 2018)
 * [Learning Boost C++ Libraries](https://www.packtpub.com/product/learning-boost-c-libraries/9781783551217) (Arindam Mukherjee, 2015)
 * [Boost C++ Application Development Cookbook](https://www.packtpub.com/product/boost-c-application-development-cookbook/9781849514880) (Antony Polukhin, 2013)
-* [Software Optimization Resources by Agner Fog](https://www.agner.org/optimize/)
 * [The Art of Writing Efficient Programs](https://www.amazon.com/dp/1800208111) (Fedor G. Pikus, 2021)
 * [C++ Best Practices](https://leanpub.com/cppbestpractices) (Jason Turner, 2022)
 
@@ -137,7 +135,7 @@ C++ "template magic" books, mostly up-to-date with at least C++11 Standard.
 
 * [C++ Templates: The Complete Guide 2nd Edition](https://www.amazon.com/dp/0321714121) (David Vandevoorde, Nicolai Josuttis, 2017)
 * [Advanced C++ Metaprogramming](https://www.amazon.com/dp/1460966163) (Davide Di Gennaro, 2011)
-* [Practical C++ Metaprogramming](https://www.oreilly.com/library/view/practical-c-metaprogramming/9781492042778/) (2016, Edouard Alligand, Joel Falcou)
+* [Practical C++ Metaprogramming](https://www.oreilly.com/library/view/practical-c-metaprogramming/9781492042778/) (Edouard Alligand, Joel Falcou, 2016)
 
 ## C++ Concurrency and Distributed Programming
 
@@ -166,7 +164,6 @@ Algorithms is a fundamental topic indeed, usually language-independent, and such
 Not much to add, books covering the first major push in C++ language Standard, C++11/14.
 
 * [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.amazon.com/dp/1491903996) (Scott Meyers, 2014)
-* [Presentation Materials: Overview of the New C++ (C++11/14)](https://www.artima.com/shop/overview_of_the_new_cpp) (Scott Meyers, 2015)
 
 ## Latest Features Review: C++17
 
@@ -184,7 +181,7 @@ Many C++20 features could be considered truly revolutionary, changing old good C
 
 * [C++ 20](https://leanpub.com/c20) (Rainer Grimm, 2021)
 * [C++ Lambda Story: Everything you need to know about Lambda Expressions in Modern C++](https://www.amazon.com/dp/B08VLM1R76) (Bartlomiej Filipek, 2021)
-* [Modern C++ Programming Cookbook](https://www.amazon.com/dp/1800208987) (Marius Bancila, 2020)
+* [Modern C++ Programming Cookbook 2nd Edition](https://www.amazon.com/dp/1800208987) (Marius Bancila, 2020)
 * [Exploring C++20: The Programmer's Introduction to C++](https://www.amazon.com/dp/1484259602) (Ray Lischner, 2020)
 * [The C++ Standard Library](https://leanpub.com/cpplibrary) (Rainer Grimm, 2021)
 * [Programming with C++20](https://leanpub.com/programming-with-cpp20) (Andreas Fertig, 2021)
@@ -330,6 +327,8 @@ Software design and architecture in C++ came a long way from the GoF book, relea
 
 No comments here. Some books are just valuable pieces of the history of C++ language, some still keep never-aging ideas and solutions.
 
+* [Effective C++: 50 Specific Ways to Improve Your Programs and Designs Subsequent Edition](https://www.amazon.com/dp/0201924889) (Scott Meyers, 1997)
+* [More Effective C++: 35 New Ways to Improve Your Programs and Designs](https://www.amazon.com/dp/020163371X) (Scott Meyers, 1996)
 * [Advanced C++ Programming Styles and Idioms](https://www.amazon.com/dp/0201548550) (James O. Coplien, 1991)
 * [Design and Evolution of C++](https://www.amazon.com/dp/0201543303) (Bjarne Stroustrup, 1994)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/dp/0201633612) (GoF, 1994)
@@ -337,7 +336,6 @@ No comments here. Some books are just valuable pieces of the history of C++ lang
 * [C++ for Real Programmers Revised Edition](https://www.amazon.com/dp/0120499428) (Jeff Alger, 1998)
 * [Thinking in C++, Vol. 1: Introduction to Standard C++](https://www.amazon.com/dp/0139798099) (Bruce Eckel, 2000)
 * [Thinking in C++, Volume 2: Practical Programming](https://www.amazon.com/dp/0130353132) (Bruce Eckel, 2003)
-* [The Boost Graph Library: User Guide and Reference Manual](https://www.amazon.com/dp/0201729148) (Jeremy G. Siek, Lie-Quan Lee, 2001)
 * [Modern C++ Design: Generic Programming and Design Patterns Applied](https://www.amazon.com/dp/0201704315) (Andrei Alexandrescu, 2001)
 * [C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond](https://www.amazon.com/dp/0321227255) (David Abrahams, Aleksey Gurtovoy, 2004)
 
