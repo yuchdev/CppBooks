@@ -99,6 +99,9 @@ and willing to become familiar with C++
 
 These books could be considered a "must-read" list for any kind of C++ programmer. Some of them are a bit outdated, as they cover previous versions of the C++ Standard - in this case, just skip outdated content, or better re-implement it using new features of the language.
 
+* [Professional C++ 5th Edition](https://www.amazon.com/dp/1119695406/) (Marc Gregoire, 2021)
+* [C++ Common Knowledge: Essential Intermediate Programming](https://www.amazon.com/dp/0321321928) (Stephen C. Dewhurst, 2005)
+* [C++ Cookbook: Solutions and Examples for C++ Programmers](https://www.amazon.com/dp/0596007612) (D. Ryan Stephens, 2005)
 * [Effective C++: 55 Specific Ways to Improve Your Programs and Designs 3rd Edition](https://www.amazon.com/dp/0321334876) (Scott Meyers, 2005)
 * [Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library](https://www.amazon.com/dp/0201749629) (Scott Meyers, 2001)
 * [Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions](https://www.amazon.com/dp/0201615622) (Herb Sutter, 1999)
@@ -113,7 +116,6 @@ These books could be considered a "must-read" list for any kind of C++ programme
 
 If you have 5+ years of experience, you should add these books to your library as well. Again, some books may contain outdated features and approaches, but in the general picture, they still provide extremely valuable knowledge.
 
-* [Professional C++ 5th Edition](https://www.amazon.com/dp/1119695406/) (Marc Gregoire, 2021)
 * [Functional Programming in C++: How to improve your C++ programs using functional techniques](https://www.amazon.com/dp/1617293814) (Ivan Cukic, 2018)
 * [C++ High Performance: Master the art of optimizing the functioning of your C++ code 2nd Edition](https://www.amazon.com/dp/1839216549) (Björn Andrist, 2020)
 * [Memory Management Algorithms And Implementation In C/C++](https://www.amazon.com/dp/1556223471) (Bill Blunden, 2002)
@@ -121,8 +123,6 @@ If you have 5+ years of experience, you should add these books to your library a
 * [Optimizing subroutines in assembly language: An optimization guide for x86 platforms](https://www.agner.org/optimize/optimizing_assembly.pdf) (pdf) (Agner Fog, 2004)
 * [Calling conventions for different C++ compilers and operating systems](https://www.agner.org/optimize/calling_conventions.pdf) (pdf) (Agner Fog, 2004)
 * [What Every Programmer Should Know About Memory](https://www.gwern.net/docs/cs/2007-drepper.pdf) (pdf) (Ulrich Drepper, 2007)
-* [C++ Common Knowledge: Essential Intermediate Programming](https://www.amazon.com/dp/0321321928) (Stephen C. Dewhurst, 2005)
-* [C++ Cookbook: Solutions and Examples for C++ Programmers](https://www.amazon.com/dp/0596007612) (D. Ryan Stephens, 2005)
 * [Design Patterns in Modern C++: Reusable Approaches for Object-Oriented Software Design](https://www.amazon.com/dp/B07CH9SRDR) (Dmitri Nesteruk, 2018)
 * [Learning Boost C++ Libraries](https://www.packtpub.com/product/learning-boost-c-libraries/9781783551217) (Arindam Mukherjee, 2015)
 * [Boost C++ Application Development Cookbook](https://www.packtpub.com/product/boost-c-application-development-cookbook/9781849514880) (Antony Polukhin, 2013)
