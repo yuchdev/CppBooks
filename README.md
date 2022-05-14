@@ -269,6 +269,7 @@ C++ embedded programming, kernel-level with some restrictive specific.
 * [Mastering Embedded Linux Programming: Unleash the full potential of Embedded Linux](https://www.amazon.com/dp/1787283283) (Chris Simmonds, 2017)
 * [Embedded Linux Systems with the Yocto Project](https://www.amazon.com/dp/0133443248) (Rudolf Streif, 2016)
 * [Hands-On Embedded Programming with C++17](https://www.packtpub.com/product/hands-on-embedded-programming-with-c-17/9781788629300) (Maya Posch, 2019)
+* [Practical Robotics in C++](https://www.amazon.com/dp/9389423465) (Lloyd Brombach, 2021)
 
 ## Network Programming
 
