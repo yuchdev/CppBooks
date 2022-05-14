@@ -123,6 +123,7 @@ If you have 5+ years of experience, you should add these books to your library a
 * [C++ Best Practices](https://github.com/yuchdev/CppBooks) (Jason Turner, 2021)
 * [Embracing Modern C++Safely](https://www.amazon.com/dp/0137380356) (John Lakos, Vittorio Romeo, Rostislav Khlebnikov, Alisdair Meredith, 2021)
 * [The Art of Writing Efficient Programs](https://www.amazon.com/dp/1800208111, Fedor G. Pikus, 2021)
+* [C++ Best Practices](https://leanpub.com/cppbestpractices) (Jason Turner, 2022)
 
 ## C++ Templates and Metaprogramming
 
