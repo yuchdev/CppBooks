@@ -5,6 +5,7 @@
 1. [Intro: iterating over C++ books](#intro-iterating-over-c-books)
     * [Controversy of Amazon as a primary reference](#controversy-of-amazon-as-a-primary-reference)
     * [Contributions](#contributions)
+    * [Expressing your gratitude](#expressing-your-gratitude)
 2. [Reference and ISO Standard ](#reference-and-iso-standard)
 3. [Beginner to Programming](#beginner-to-programming)
 4. [Beginner to C++](#beginner-to-c)
@@ -55,6 +56,10 @@ I was extremely upset myself by the fact I have to use references almost exclusi
 ### Contributions
 
 I would welcome any reasonable contributions in the objective to create a comprehensive and up-to-date catalog of C++ books, for all kinds of C++ programmers, with any professional background and experience. While using or replicating the content, a Creative Commons Attribution-NonCommercial 4.0 International License is applied.
+
+### Expressing your gratitude
+
+I created this catalog and keep maintaining it in my spare time. If you wish to thank me for my efforts, you always can [buy me a coffee](https://www.buymeacoffee.com/strategari6)
 
 ## Reference and ISO Standard 
 
