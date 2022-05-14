@@ -19,16 +19,17 @@
 12. [Latest Features Review: C++20](#latest-features-review-c20)
 13. [Modern C Programming](#modern-c-programming)
 14. [GUI Programming](#gui-programming)
-15. [Windows System Programming](#windows-system-programming)
-16. [Windows Kernel Programming](#windows-kernel-programming)
-17. [Linux System Programming](#linux-system-programming)
-18. [Linux Kernel Programming](#linux-kernel-programming)
-19. [Linux Embedded Programming](#linux-embedded-programming)
-20. [Network Programming](#network-programming)
-21. [Computer Graphics in C++](#computer-graphics-in-c)
-22. [Game Development in C++](#game-development-in-c)
-23. [Software Design and Design Patterns in C++](#software-design-and-design-patterns-in-c)
-24. [Old and Classic books on C++](#old-and-classic-books-on-c)
+15. [Secure Programming Practices](#secure-programming-practices)
+16. [Windows System Programming](#windows-system-programming)
+17. [Windows Kernel Programming](#windows-kernel-programming)
+18. [Linux System Programming](#linux-system-programming)
+19. [Linux Kernel Programming](#linux-kernel-programming)
+20. [Linux Embedded Programming](#linux-embedded-programming)
+21. [Network Programming](#network-programming)
+22. [Computer Graphics in C++](#computer-graphics-in-c)
+23. [Game Development in C++](#game-development-in-c)
+24. [Software Design and Design Patterns in C++](#software-design-and-design-patterns-in-c)
+25. [Old and Classic books on C++](#old-and-classic-books-on-c)
 
 ## Intro: iterating over C++ books
 
@@ -128,7 +129,6 @@ If you have 5+ years of experience, you should add these books to your library a
 * [Boost C++ Application Development Cookbook](https://www.packtpub.com/product/boost-c-application-development-cookbook/9781849514880) (Antony Polukhin, 2013)
 * [Software Optimization Resources by Agner Fog](https://www.agner.org/optimize/)
 * [C++ Best Practices](https://github.com/yuchdev/CppBooks) (Jason Turner, 2021)
-* [Embracing Modern C++Safely](https://www.amazon.com/dp/0137380356) (John Lakos, Vittorio Romeo, Rostislav Khlebnikov, Alisdair Meredith, 2021)
 * [The Art of Writing Efficient Programs](https://www.amazon.com/dp/1800208111, Fedor G. Pikus, 2021)
 * [C++ Best Practices](https://leanpub.com/cppbestpractices) (Jason Turner, 2022)
 
@@ -158,7 +158,7 @@ Algorithms is a fundamental topic indeed, usually language-independent, and such
 * [Implementing Useful Algorithms in C++](https://www.amazon.com/dp/B08PXHJCXY) (Dmytro Kedyk, 2020)
 * [Algorithms in C++ 3rd Edition](https://www.amazon.com/dp/020172684X) (Robert Sedgewick, 2001)
 * [Data Structures and Algorithms in C++ 2nd Edition](https://www.amazon.com/dp/0470383275) (Michael T. Goodrich, 2011)
-* [Data Structures & Algorithm Analysis in C++ 4th Edition](https://www.amazon.com/dp/013284737X) (Mark Weiss, 2013)
+* [Data Structures and Algorithm Analysis in C++ 4th Edition](https://www.amazon.com/dp/013284737X) (Mark Weiss, 2013)
 * [Hacker's Delight](https://www.amazon.com/dp/0321842685) (Henry Warren, 2012)
 * [Elements of Programming Interviews](https://www.amazon.com/dp/1479274836) (Adnan Aziz, 2012)
 
@@ -210,6 +210,15 @@ Books on C++ GUI frameworks and desktop programming in general. Some are featuri
 * [Mastering Qt 5](https://www.amazon.com/dp/1788995392) (Guillaume Lazar, 2018)
 * [Advanced Qt Programming](https://www.amazon.com/dp/0134670876) (Mark Summerfield, 2016)
 * [Programming Windows 10 Via UWP](https://www.amazon.com/dp/1973438771) (Roger Deutsch, 2017)
+
+## Secure Programming Practices
+
+Lots of Software Developers heard about software vulnerabilities more than once, and still, very few of them pay at least slightest attention, considering IT Security highly specialized industry they do not belong to. However, they are mistaken, most of typical attacks, like spoofing, buffer overflows, and denial of service happen because of poorly written and poorly tested applications. Meanwhile, practices of writing secure code and hardening applications security in general are well known, and you should embrace it once and for all, if you are ever planning to write mission-critical applications.
+
+* [Writing Secure Code](https://www.amazon.com/dp/B00JDMP718) (David LeBlanc, 2002)
+* [Embracing Modern C++ Safely](https://www.amazon.com/dp/0137380356) (John Lakos, Vittorio Romeo, Rostislav Khlebnikov, Alisdair Meredith, 2021)
+* [Secure Coding in C and C++](https://www.amazon.com/dp/B00C0OBZI0) (Robert C. Seacord, 2013)
+* [Secure Programming Cookbook for C and C++]() (John Viega, 2003)
 
 ## Windows System Programming
 
