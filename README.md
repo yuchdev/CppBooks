@@ -163,6 +163,7 @@ Algorithms is a fundamental topic indeed, usually language-independent, and such
 
 Not much to add, books covering the first major push in C++ language Standard, C++11/14.
 
+* [C++11 for Programmers 2nd Edition](https://www.amazon.com/dp/0133439852) (Paul Deitel, Harvey Deitel, 2013)
 * [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.amazon.com/dp/1491903996) (Scott Meyers, 2014)
 
 ## Latest Features Review: C++17
