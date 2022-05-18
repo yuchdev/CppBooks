@@ -338,6 +338,5 @@ No comments here. Some books are just valuable pieces of the history of C++ lang
 * [Thinking in C++, Vol. 1: Introduction to Standard C++](https://www.amazon.com/dp/0139798099) (Bruce Eckel, 2000)
 * [Thinking in C++, Volume 2: Practical Programming](https://www.amazon.com/dp/0130353132) (Bruce Eckel, 2003)
 * [Modern C++ Design: Generic Programming and Design Patterns Applied](https://www.amazon.com/dp/0201704315) (Andrei Alexandrescu, 2001)
-* [C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond](https://www.amazon.com/dp/0321227255) (David Abrahams, Aleksey Gurtovoy, 2004)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
