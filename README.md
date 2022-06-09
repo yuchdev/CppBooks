@@ -128,6 +128,7 @@ If you have 5+ years of experience, you should add these books to your library a
 * [Boost C++ Application Development Cookbook](https://www.packtpub.com/product/boost-c-application-development-cookbook/9781849514880) (Antony Polukhin, 2013)
 * [The Art of Writing Efficient Programs](https://www.amazon.com/dp/1800208111) (Fedor G. Pikus, 2021)
 * [C++ Best Practices](https://leanpub.com/cppbestpractices) (Jason Turner, 2022)
+* [Beautiful C++: 30 Core Guidelines for Writing Clean, Safe, and Fast Code](https://www.amazon.com/dp/0137647840) (J. Davidson, Kate Gregory, 2021)
 
 ## C++ Templates and Metaprogramming
 
