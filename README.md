@@ -280,6 +280,7 @@ C++ embedded programming, kernel-level with some restrictive specific.
 * [Hands-On Embedded Programming with C++17](https://www.packtpub.com/product/hands-on-embedded-programming-with-c-17/9781788629300) (Maya Posch, 2019)
 * [Practical Robotics in C++](https://www.amazon.com/dp/9389423465) (Lloyd Brombach, 2021)
 * [Embedded Systems Architecture](https://www.amazon.com/dp/1788832507) (Daniele Lacamera, 2018)
+* [Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming](https://www.amazon.com/dp/3662478099) (Christopher Kormanyos, 2021)
 
 ## Network Programming
 
