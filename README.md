@@ -13,25 +13,26 @@
 6. [Advanced Books on C++](#advanced-books-on-c)
 7. [C++ Templates and Metaprogramming](#c-templates-and-metaprogramming)
 8. [C++ Concurrency and Distributed Programming](#c-concurrency-and-distributed-programming)
-9. [Algorithms in C and C++](#algorithms-in-c-and-c)
-10. [Latest Features Review: C++11/14](#latest-features-review-c1114)
-11. [Latest Features Review: C++17](#latest-features-review-c17)
-12. [Latest Features Review: C++20](#latest-features-review-c20)
-13. [Modern C Programming](#modern-c-programming)
-14. [GUI Programming](#gui-programming)
-15. [Secure Programming Practices](#secure-programming-practices)
-16. [Windows System Programming](#windows-system-programming)
-17. [Windows Kernel Programming](#windows-kernel-programming)
-18. [Linux System Programming](#linux-system-programming)
-19. [Linux Kernel Programming](#linux-kernel-programming)
-20. [Linux Embedded Programming](#linux-embedded-programming)
-21. [Network Programming](#network-programming)
-22. [Computer Graphics in C++](#computer-graphics-in-c)
-23. [Game Development in C++](#game-development-in-c)
-24. [Financial Applications of C++](#financial-applications-of-c)
-25  [Hardware Design in C++](hardware-design-in-c)
-26. [Software Design and Design Patterns in C++](#software-design-and-design-patterns-in-c)
-27. [Old and Classic books on C++](#old-and-classic-books-on-c)
+9. [Low-Level High-Performance Optimizations](low-level-high-performance-optimizations)
+10. [Algorithms in C and C++](#algorithms-in-c-and-c)
+11. [Latest Features Review: C++11/14](#latest-features-review-c1114)
+12. [Latest Features Review: C++17](#latest-features-review-c17)
+13. [Latest Features Review: C++20](#latest-features-review-c20)
+14. [Modern C Programming](#modern-c-programming)
+15. [GUI Programming](#gui-programming)
+16. [Secure Programming Practices](#secure-programming-practices)
+17. [Windows System Programming](#windows-system-programming)
+18. [Windows Kernel Programming](#windows-kernel-programming)
+19. [Linux System Programming](#linux-system-programming)
+20. [Linux Kernel Programming](#linux-kernel-programming)
+21. [Linux Embedded Programming](#linux-embedded-programming)
+22. [Network Programming](#network-programming)
+23. [Computer Graphics in C++](#computer-graphics-in-c)
+24. [Game Development in C++](#game-development-in-c)
+25  [Financial Applications of C++](#financial-applications-of-c)
+26. [Hardware Design in C++](hardware-design-in-c)
+27. [Software Design and Design Patterns in C++](#software-design-and-design-patterns-in-c)
+28. [Old and Classic books on C++](#old-and-classic-books-on-c)
 
 ## Intro: iterating over C++ books
 
@@ -150,6 +151,14 @@ Having a “multithreaded” type of mindset if necessary, if you work with mode
 * [The Art of Multiprocessor Programming 2nd Edition](https://www.amazon.com/dp/0124159508) (Maurice Herlihy, 2020)
 * [C++ Multithreading Cookbook](https://www.packtpub.com/product/c-multithreading-cookbook/9781783289790) (Miloš Ljumović, 2014)
 * [Concurrency with Modern C++](https://leanpub.com/concurrencywithmodernc) (Rainer Grimm, 2021)
+
+## Low-Level High-Performance Optimizations
+
+C++ is a high-performance language by itself, however, there are plenty of usecases when the "default high-performance" is just not enough. Usually such topics are considered in a literature on parallel programming, but it includes an important subset concentrating exactly of low-level performance techniques relying on hardware (SIMD, CPU cache, process affinity), rather than software implementation of multithreaded algorithms.
+
+* [Computer Systems: A Programmer's Perspective](https://www.amazon.com/dp/013409266X) (Randal Bryant, David O'Hallaron, 2015)
+* [Parallel Programming: Concepts and Practice](https://www.amazon.com/dp/0128498900) (Bertil Schmidt, Jorge Gonzalez-Dominguez, Christian Hundt, 2017)
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://cdn.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) (Paul McKinley, 2021)
 
 ## Algorithms in C and C++
 
