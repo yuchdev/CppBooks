@@ -29,7 +29,7 @@
 22. [Network Programming](#network-programming)
 23. [Computer Graphics in C++](#computer-graphics-in-c)
 24. [Game Development in C++](#game-development-in-c)
-25  [Financial Applications of C++](#financial-applications-of-c)
+25. [Financial Applications of C++](#financial-applications-of-c)
 26. [Hardware Design in C++](hardware-design-in-c)
 27. [Software Design and Design Patterns in C++](#software-design-and-design-patterns-in-c)
 28. [Old and Classic books on C++](#old-and-classic-books-on-c)
