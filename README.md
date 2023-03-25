@@ -28,8 +28,10 @@
 21. [Network Programming](#network-programming)
 22. [Computer Graphics in C++](#computer-graphics-in-c)
 23. [Game Development in C++](#game-development-in-c)
-24. [Software Design and Design Patterns in C++](#software-design-and-design-patterns-in-c)
-25. [Old and Classic books on C++](#old-and-classic-books-on-c)
+24. [Financial Applications of C++](#financial-applications-of-c)
+25  [Hardware Design in C++](hardware-design-in-c)
+26. [Software Design and Design Patterns in C++](#software-design-and-design-patterns-in-c)
+27. [Old and Classic books on C++](#old-and-classic-books-on-c)
 
 ## Intro: iterating over C++ books
 
@@ -315,6 +317,24 @@ Game development could be considered as a derivative of C++ Computer Graphics, h
 * [Unreal Engine 4 Virtual Reality Projects](https://www.amazon.com/dp/1789132878) (Kevin Mack, 2019)
 * [Unreal Engine 4 Scripting with C++ Cookbook](https://www.packtpub.com/product/unreal-engine-4-scripting-with-c-cookbook/9781785885549) (William Sherif , Stephen Whittle, 2016)
 * [Unreal Engine C++ the Ultimate Developer's Handbook](https://www.amazon.com/dp/B089M2H7J1) (Stephen Seth Ulibarri, 2020)
+
+## Financial Applications of C++
+
+C++ is a popular choice for financial applications for pretty much the same reason as for other industries, requiring fast execution, fine-grained memory management, and access close to computer hardware. For decades it was the only viable choice for financial instruments pricing, risk management and algorithmic trading.
+
+* [Financial Instrument Pricing Using C++](https://www.amazon.com/dp/0470855096) (Daniel J. Duffy, 2004)
+* [Quantitative Finance: An Object-Oriented Approach in C++](https://www.amazon.com/dp/1584884797) (Erik Schlogl, 2013)
+* [Building Financial Risk Management Applications with C++](https://www.amazon.com/dp/147835075X) (Robert Brooks, 2013)
+* [C++ for Financial Mathematics](https://www.amazon.com/dp/B01N4V75RJ) (John Armstrong, 2017)
+* [Hedge Fund Modelling and Analysis: An Object Oriented Approach Using C++](https://www.amazon.com/dp/B01M2A5XWX) (David Hampton, Paul Darbyshire, 2016)
+
+## Hardware Design in C++
+
+One can be surprised that C++ came into this niche application as well, dominated by specialized hardware description languages (HDLs) like Verilog and VHDL. However, using C++ for the purpose of SoC design offers a number of major advantage - it provides a seamless integration between hawardre and software parts of the system, and better abstracting thanks to Object-Oriented Design.
+
+* [SystemC: From the Ground Up](https://www.amazon.com/dp/B008BBVWPW) (David C. Black, Jack Donovan, 2009)
+* [Simulation, Design Abstraction, and SystemC](https://myslu.stlawu.edu/~ehar/papers/cse_systemc.pdf) (Ed Harcourt, 2007)
+* [An Introduction to System Level Modeling in SystemC 2.0](https://class.ece.uw.edu/542/peckol/doc/SystemC/systemC-2.0.10verView.pdf) (Stuart Swan, 2001)
 
 ## Software Design and Design Patterns in C++
 
