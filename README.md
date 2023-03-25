@@ -98,6 +98,7 @@ and willing to become familiar with C++
 
 * [A Tour of C++ 2nd Edition](https://www.amazon.com/dp/0134997832) (Bjarne Stroustrup, 2018)
 * [C and C++ Under the Hood](https://www.amazon.com/dp/1793302898/) (Anthony J. Dos Reis, 2019)
+* [Discovering Modern C++, 2nd Edition](https://www.amazon.com/Discovering-Modern-Depth-Peter-Gottschling/dp/0136677649/) (Peter Gottschling, 2021)
 
 ## General Books on C++
 
