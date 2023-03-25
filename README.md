@@ -96,7 +96,7 @@ There's not much to add - books for beginners to C++, and probably to programmin
 These books are for software developers with some experience in other languages,
 and willing to become familiar with C++
 
-* [A Tour of C++ 2nd Edition](https://www.amazon.com/dp/0134997832) (Bjarne Stroustrup, 2018)
+* [A Tour of C++ 3rd Edition](https://www.amazon.com/dp/0136816487) (Bjarne Stroustrup, 2022)
 * [C and C++ Under the Hood](https://www.amazon.com/dp/1793302898/) (Anthony J. Dos Reis, 2019)
 * [Discovering Modern C++, 2nd Edition](https://www.amazon.com/Discovering-Modern-Depth-Peter-Gottschling/dp/0136677649/) (Peter Gottschling, 2021)
 
