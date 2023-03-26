@@ -19,7 +19,7 @@
 12. [Latest Features Review: C++11/14](#latest-features-review-c1114)
 13. [Latest Features Review: C++17](#latest-features-review-c17)
 14. [Latest Features Review: C++20](#latest-features-review-c20)
-15. [Modern C Programming](#modern-c-programming)
+15. [Software Design and Design Patterns in C++](#software-design-and-design-patterns-in-c)
 16. [GUI Programming](#gui-programming)
 17. [Secure Programming Practices](#secure-programming-practices)
 18. [Windows System Programming](#windows-system-programming)
@@ -32,7 +32,7 @@
 25. [Game Development in C++](#game-development-in-c)
 26. [Financial Applications of C++](#financial-applications-of-c)
 27. [Hardware Design in C++](#hardware-design-in-c)
-28. [Software Design and Design Patterns in C++](#software-design-and-design-patterns-in-c)
+28. [Modern C Programming](#modern-c-programming)
 29. [Old and Classic books on C++](#old-and-classic-books-on-c)
 
 ## Intro: iterating over C++ books
@@ -203,15 +203,15 @@ Many C++20 features could be considered truly revolutionary, changing old good C
 * [C++20 - The Complete Guide](https://leanpub.com/cpp20) (Nicolai M. Josuttis, the book is 90% complete as of May 2022)
 * [C++ Concepts](https://leanpub.com/cppconcepts) (Sandor Dargo, 2022)
 
-## Modern C Programming
+## Software Design and Design Patterns in C++
 
-Our allies from the non-OOP world. The emphasis of selected books made on new features of C, particularly on C11 and C17.
+Software design and architecture in C++ came a long way from the GoF book, released in 1994. Since then, some design patterns became just language features, some are changed beyond recognition - that's why it's vital to consider new language features, thinking of implementing a particular software design solution.
 
-* [Effective C: An Introduction to Professional C Programming](https://www.amazon.com/dp/1718501048) (Robert C. Seacord, 2020)
-* [Modern C](https://www.amazon.com/dp/1617295817) (Jens Gustedt, 2019)
-* [Extreme C: Taking you to the limit in Concurrency, OOP, and the most advanced capabilities of C](https://www.amazon.com/dp/1789343623) (Kamran Amini, 2019)
-* [C Programming: A Modern Approach](https://www.amazon.com/dp/0393979504) (K. N. King, 2008)
-* [Object-Oriented Programming With ANSI C](https://www.amazon.com/dp/B00930I6TK) (Axel Schreiner, 2011)
+* [Design Patterns in Modern C++](https://www.amazon.com/dp/1484236025) (Dmitri Nesteruk, 2018)
+* [Software Architecture with C++](https://www.packtpub.com/product/software-architecture-with-c/9781838554590) (Adrian Ostrowski , Piotr Gaczkowski, 2021)
+* [Large-Scale C++ Volume I: Process and Architecture](https://www.amazon.com/dp/0201717069) (John Debbie Lafferty, 2019)
+* [Large-Scale C++ Volume II: Design and Implementation](https://www.amazon.com/dp/0134694694) (John Debbie Lafferty, 2021)
+* [API Design for C++](https://www.amazon.com/dp/B004NNUZ6O/) (Martin Reddy, 2011)
 
 ## GUI Programming
 
@@ -347,15 +347,15 @@ One can be surprised that C++ came into this niche application as well, dominate
 * [Simulation, Design Abstraction, and SystemC](https://myslu.stlawu.edu/~ehar/papers/cse_systemc.pdf) (Ed Harcourt, 2007)
 * [An Introduction to System Level Modeling in SystemC 2.0](https://class.ece.uw.edu/542/peckol/doc/SystemC/systemC-2.0.10verView.pdf) (Stuart Swan, 2001)
 
-## Software Design and Design Patterns in C++
+## Modern C Programming
 
-Software design and architecture in C++ came a long way from the GoF book, released in 1994. Since then, some design patterns became just language features, some are changed beyond recognition - that's why it's vital to consider new language features, thinking of implementing a particular software design solution.
+Our allies from the non-OOP world. The emphasis of selected books made on new features of C, particularly on C11 and C17.
 
-* [Design Patterns in Modern C++](https://www.amazon.com/dp/1484236025) (Dmitri Nesteruk, 2018)
-* [Software Architecture with C++](https://www.packtpub.com/product/software-architecture-with-c/9781838554590) (Adrian Ostrowski , Piotr Gaczkowski, 2021)
-* [Large-Scale C++ Volume I: Process and Architecture](https://www.amazon.com/dp/0201717069) (John Debbie Lafferty, 2019)
-* [Large-Scale C++ Volume II: Design and Implementation](https://www.amazon.com/dp/0134694694) (John Debbie Lafferty, 2021)
-* [API Design for C++](https://www.amazon.com/dp/B004NNUZ6O/) (Martin Reddy, 2011)
+* [Effective C: An Introduction to Professional C Programming](https://www.amazon.com/dp/1718501048) (Robert C. Seacord, 2020)
+* [Modern C](https://www.amazon.com/dp/1617295817) (Jens Gustedt, 2019)
+* [Extreme C: Taking you to the limit in Concurrency, OOP, and the most advanced capabilities of C](https://www.amazon.com/dp/1789343623) (Kamran Amini, 2019)
+* [C Programming: A Modern Approach](https://www.amazon.com/dp/0393979504) (K. N. King, 2008)
+* [Object-Oriented Programming With ANSI C](https://www.amazon.com/dp/B00930I6TK) (Axel Schreiner, 2011)
 
 ## Old and Classic books on C++
 
