@@ -341,7 +341,7 @@ C++ is a popular choice for financial applications for pretty much the same reas
 
 ## Hardware Design in C++
 
-One can be surprised that C++ came into this niche application as well, dominated by specialized hardware description languages (HDLs) like Verilog and VHDL. However, using C++ for the purpose of SoC design offers a number of major advantage - it provides a seamless integration between hawardre and software parts of the system, and better abstracting thanks to Object-Oriented Design.
+One can be surprised that C++ came into this niche application as well, dominated by specialized hardware description languages (HDLs) like Verilog and VHDL. However, using C++ for the purpose of SoC design offers a number of major advantage - it provides a seamless integration between hawardre and software parts of the system, and better abstraction compared to procedural HDLs.
 
 * [SystemC: From the Ground Up](https://www.amazon.com/dp/B008BBVWPW) (David C. Black, Jack Donovan, 2009)
 * [Simulation, Design Abstraction, and SystemC](https://myslu.stlawu.edu/~ehar/papers/cse_systemc.pdf) (Ed Harcourt, 2007)
