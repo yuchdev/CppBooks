@@ -156,7 +156,7 @@ Having a “multithreaded” type of mindset if necessary, if you work with mode
 
 ## Low-Level High-Performance Optimizations
 
-C++ is a high-performance language by itself, however, there are plenty of usecases when the "default high-performance" is just not enough. Usually such topics are considered in a literature on parallel programming, but it includes an important subset concentrating exactly of low-level performance techniques relying on hardware (SIMD, CPU cache, process affinity), rather than software implementation of multithreaded algorithms.
+C++ is a high-performance language by itself, however, there are plenty of usecases when the "default high-performance" is just not enough. Usually such topics are considered in the literature on parallel programming, but it includes an important subset concentrating exactly on low-level performance techniques relying on hardware (SIMD, CPU cache, process affinity), rather than software implementation of multithreaded algorithms.
 
 * [Computer Systems: A Programmer's Perspective](https://www.amazon.com/dp/013409266X) (Randal Bryant, David O'Hallaron, 2015)
 * [Parallel Programming: Concepts and Practice](https://www.amazon.com/dp/0128498900) (Bertil Schmidt, Jorge Gonzalez-Dominguez, Christian Hundt, 2017)
