@@ -7,7 +7,7 @@
     - [Controversy of Amazon as a primary reference](#controversy-of-amazon-as-a-primary-reference)
     - [Contributions](#contributions)
     - [Expressing your gratitude](#expressing-your-gratitude)
-3. [Reference and ISO Standard ](#reference-and-iso-standard-)
+3. [Reference and ISO Standard ](#reference-and-iso-standard)
 4. [Beginner to Programming](#beginner-to-programming)
 5. [Beginner to C++](#beginner-to-c)
 6. [General Books on C++](#general-books-on-c)
