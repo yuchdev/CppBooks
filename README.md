@@ -97,6 +97,7 @@ These books are for software developers with some experience in other languages,
 and willing to become familiar with C++
 
 * [A Tour of C++ 3rd Edition](https://www.amazon.com/dp/0136816487) (Bjarne Stroustrup, 2022)
+* [Beginning C++23](https://www.amazon.com/dp/1484293428) (Ivor Horton, Peter Van Weert, 2023)
 * [C and C++ Under the Hood](https://www.amazon.com/dp/1793302898/) (Anthony J. Dos Reis, 2019)
 * [Discovering Modern C++, 2nd Edition](https://www.amazon.com/Discovering-Modern-Depth-Peter-Gottschling/dp/0136677649/) (Peter Gottschling, 2021)
 
@@ -121,6 +122,7 @@ These books could be considered a "must-read" list for any kind of C++ programme
 
 If you have 5+ years of experience, you should add these books to your library as well. Again, some books may contain outdated features and approaches, but in the general picture, they still provide extremely valuable knowledge.
 
+* [C++ Move Semantics - The Complete Guide](https://www.amazon.com/dp/3967309002) (Nicolai M. Josuttis, 2020)
 * [Functional Programming in C++: How to improve your C++ programs using functional techniques](https://www.amazon.com/dp/1617293814) (Ivan Cukic, 2018)
 * [C++ High Performance: Master the art of optimizing the functioning of your C++ code 2nd Edition](https://www.amazon.com/dp/1839216549) (Björn Andrist, 2020)
 * [Memory Management Algorithms And Implementation In C/C++](https://www.amazon.com/dp/1556223471) (Bill Blunden, 2002)
@@ -128,7 +130,6 @@ If you have 5+ years of experience, you should add these books to your library a
 * [Optimizing subroutines in assembly language: An optimization guide for x86 platforms](https://www.agner.org/optimize/optimizing_assembly.pdf) (pdf) (Agner Fog, 2004)
 * [Calling conventions for different C++ compilers and operating systems](https://www.agner.org/optimize/calling_conventions.pdf) (pdf) (Agner Fog, 2004)
 * [What Every Programmer Should Know About Memory](https://www.gwern.net/docs/cs/2007-drepper.pdf) (pdf) (Ulrich Drepper, 2007)
-* [Design Patterns in Modern C++: Reusable Approaches for Object-Oriented Software Design](https://www.amazon.com/dp/B07CH9SRDR) (Dmitri Nesteruk, 2018)
 * [Learning Boost C++ Libraries](https://www.packtpub.com/product/learning-boost-c-libraries/9781783551217) (Arindam Mukherjee, 2015)
 * [Boost C++ Application Development Cookbook](https://www.packtpub.com/product/boost-c-application-development-cookbook/9781849514880) (Antony Polukhin, 2013)
 * [The Art of Writing Efficient Programs](https://www.amazon.com/dp/1800208111) (Fedor G. Pikus, 2021)
@@ -166,6 +167,7 @@ C++ is a high-performance language by itself, however, there are plenty of useca
 
 Algorithms is a fundamental topic indeed, usually language-independent, and such books age like a good wine - that's why following the last language Standard is not necessary here.
 
+* [A Complete Guide to Standard C++ Algorithms](https://leanpub.com/cpp-algorithms-guide) (Šimon Tóth, last updated on 2023)
 * [Implementing Useful Algorithms in C++](https://www.amazon.com/dp/B08PXHJCXY) (Dmytro Kedyk, 2020)
 * [Algorithms in C++ 3rd Edition](https://www.amazon.com/dp/020172684X) (Robert Sedgewick, 2001)
 * [Data Structures and Algorithms in C++ 2nd Edition](https://www.amazon.com/dp/0470383275) (Michael T. Goodrich, 2011)
@@ -200,13 +202,14 @@ Many C++20 features could be considered truly revolutionary, changing old good C
 * [Exploring C++20: The Programmer's Introduction to C++](https://www.amazon.com/dp/1484259602) (Ray Lischner, 2020)
 * [The C++ Standard Library](https://leanpub.com/cpplibrary) (Rainer Grimm, 2021)
 * [Programming with C++20](https://leanpub.com/programming-with-cpp20) (Andreas Fertig, 2021)
-* [C++20 - The Complete Guide](https://leanpub.com/cpp20) (Nicolai M. Josuttis, the book is 90% complete as of May 2022)
+* [C++20 - The Complete Guide](https://leanpub.com/cpp20) (Nicolai M. Josuttis)
 * [C++ Concepts](https://leanpub.com/cppconcepts) (Sandor Dargo, 2022)
 
 ## Software Design and Design Patterns in C++
 
 Software design and architecture in C++ came a long way from the GoF book, released in 1994. Since then, some design patterns became just language features, some are changed beyond recognition - that's why it's vital to consider new language features, thinking of implementing a particular software design solution.
 
+* [Hands-On Design Patterns with C++ 2nd Edition](https://www.amazon.com/dp/1804611557) (Fedor G. Pikus, 2023)
 * [Design Patterns in Modern C++](https://www.amazon.com/dp/1484236025) (Dmitri Nesteruk, 2018)
 * [Software Architecture with C++](https://www.packtpub.com/product/software-architecture-with-c/9781838554590) (Adrian Ostrowski , Piotr Gaczkowski, 2021)
 * [Large-Scale C++ Volume I: Process and Architecture](https://www.amazon.com/dp/0201717069) (John Debbie Lafferty, 2019)
@@ -279,16 +282,17 @@ The comprehensive reading list for Linux kernel-space programming. The choice is
 * [Linux Kernel Networking: Implementation and Theory ](https://www.amazon.com/dp/143026196X) (Rami Rosen, 2013)
 * [Linux Kernel Programming](https://www.amazon.com/dp/178995343X) (Kaiwan N Billimoria, 2021)
 * [Linux Kernel Programming Part 2 - Char Device Drivers and Kernel Synchronization](https://www.amazon.com/dp/180107951X) (Kaiwan N Billimoria, 2021)
+* [Linux Kernel Debugging](https://www.amazon.com/dp/1801075034) (Kaiwan N Billimoria, 2022)
 * [Mastering Linux Device Driver Development](https://www.amazon.com/dp/178934204X) (John Madieu, 2021)
-* [Linux Device Drivers Development: Develop customized drivers for embedded Linux](https://www.amazon.com/dp/1785280007) (John Madieu, 2017)
+* [Linux Device Drivers Development 2nd Edition](https://www.amazon.com/dp/1803240067) (John Madieu, 2022)
 * [Linux Device Driver Development Cookbook](https://www.amazon.com/dp/1838558802) (Rodolfo Giometti, 2019)
 
 ## C++ Embedded Programming
 
 C++ embedded programming, kernel-level with some restrictive specific.
 
-* [Mastering Embedded Linux Programming](https://www.amazon.com/dp/1784392537) (Chris Simmonds, 2015)
-* [Mastering Embedded Linux Programming: Unleash the full potential of Embedded Linux](https://www.amazon.com/dp/1787283283) (Chris Simmonds, 2017)
+* [Mastering Embedded Linux Programming 3rd Edition](https://www.amazon.com/dp/1789530385) (Chris Simmonds, Frank Vasquez, 2021)
+* [Embedded Linux Development Using Yocto Project Cookbook 2nd Edition](https://www.amazon.com/dp/1788399218) (Alex Gonzalez, 2018)
 * [Embedded Linux Systems with the Yocto Project](https://www.amazon.com/dp/0133443248) (Rudolf Streif, 2016)
 * [Hands-On Embedded Programming with C++17](https://www.packtpub.com/product/hands-on-embedded-programming-with-c-17/9781788629300) (Maya Posch, 2019)
 * [Practical Robotics in C++](https://www.amazon.com/dp/9389423465) (Lloyd Brombach, 2021)
