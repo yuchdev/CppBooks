@@ -85,7 +85,7 @@ However, every C++ Standard has a number of drafts before the release, and usual
 There's not much to add - books for beginners to C++, and probably to programming in general.
 
 * [C++ Primer 5th Edition](https://www.amazon.com/dp/0321714113) (Stanley B. Lippman, 2012)
-* [Programming: Principles and Practice Using C++ 2nd Edition](https://www.amazon.com/dp/0321992784) (Bjarne Stroustrup, 2014)
+* [Programming: Principles and Practice Using C++ 3rd Edition](https://www.amazon.com/dp/0138308683) (Bjarne Stroustrup, 2024)
 * [Beginning C++ Through Game Programming 4th Edition](https://www.amazon.com/dp/B00LZW07P0) (Michael Dawson, 2014)
 * [Beginning C++ Game Programming](https://www.amazon.com/dp/1838648577) (John Horton, 2019)
 * [Starting Out with C++ from Control Structures to Objects](https://www.amazon.com/dp/0134498372) (Tony Gaddis, 2017)
