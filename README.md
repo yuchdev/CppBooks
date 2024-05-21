@@ -204,17 +204,21 @@ Many C++20 features could be considered truly revolutionary, changing old good C
 * [Programming with C++20](https://leanpub.com/programming-with-cpp20) (Andreas Fertig, 2021)
 * [C++20 - The Complete Guide](https://leanpub.com/cpp20) (Nicolai M. Josuttis)
 * [C++ Concepts](https://leanpub.com/cppconcepts) (Sandor Dargo, 2022)
+* [C++ Programming Cookbook](https://www.amazon.com/dp/B0CYCV5748) (Anais Sutherland, 2024)
 
 ## Software Design and Design Patterns in C++
 
 Software design and architecture in C++ came a long way from the GoF book, released in 1994. Since then, some design patterns became just language features, some are changed beyond recognition - that's why it's vital to consider new language features, thinking of implementing a particular software design solution.
 
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/dp/0201633612) (Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, 1994)
 * [Hands-On Design Patterns with C++ 2nd Edition](https://www.amazon.com/dp/1804611557) (Fedor G. Pikus, 2023)
 * [Design Patterns in Modern C++](https://www.amazon.com/dp/1484236025) (Dmitri Nesteruk, 2018)
 * [Software Architecture with C++](https://www.packtpub.com/product/software-architecture-with-c/9781838554590) (Adrian Ostrowski , Piotr Gaczkowski, 2021)
 * [Large-Scale C++ Volume I: Process and Architecture](https://www.amazon.com/dp/0201717069) (John Debbie Lafferty, 2019)
 * [Large-Scale C++ Volume II: Design and Implementation](https://www.amazon.com/dp/0134694694) (John Debbie Lafferty, 2021)
 * [API Design for C++](https://www.amazon.com/dp/B004NNUZ6O/) (Martin Reddy, 2011)
+* [Object-Oriented Software Design in C++](https://www.amazon.com//dp/163343950X/) (Ronald Mak, 2024)
+* [C++ Software Design: Design Principles and Patterns for High-Quality Software](https://www.amazon.com/dp/1098113160) (Klaus Iglberger, 2022)
 
 ## GUI Programming
 
