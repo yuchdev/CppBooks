@@ -7,7 +7,7 @@
     - [Controversy of Amazon as a primary reference](#controversy-of-amazon-as-a-primary-reference)
     - [Contributions](#contributions)
     - [Expressing your gratitude](#expressing-your-gratitude)
-3. [Reference and ISO Standard ](#reference-and-iso-standard)
+3. [Reference and ISO Standard ](#2reference-and-iso-standard)
 4. [Beginner to Programming](#beginner-to-programming)
 5. [Beginner to C++](#beginner-to-c)
 6. [General Books on C++](#general-books-on-c)
@@ -101,6 +101,7 @@ and willing to become familiar with C++
 * [Beginning C++23](https://www.amazon.com/dp/1484293428) (Ivor Horton, Peter Van Weert, 2023)
 * [C and C++ Under the Hood](https://www.amazon.com/dp/1793302898/) (Anthony J. Dos Reis, 2019)
 * [Discovering Modern C++, 2nd Edition](https://www.amazon.com/Discovering-Modern-Depth-Peter-Gottschling/dp/0136677649/) (Peter Gottschling, 2021)
+* [C++ How to Program: An Objects-Natural Approach](https://www.amazon.com/dp/B0CF4TX8XG) (Paul Deitel, Harvey Deitel, 2023)
 
 ## General Books on C++
 
@@ -132,7 +133,7 @@ If you have 5+ years of experience, you should add these books to your library a
 * [Calling conventions for different C++ compilers and operating systems](https://www.agner.org/optimize/calling_conventions.pdf) (pdf) (Agner Fog, 2004)
 * [What Every Programmer Should Know About Memory](https://www.gwern.net/docs/cs/2007-drepper.pdf) (pdf) (Ulrich Drepper, 2007)
 * [Learning Boost C++ Libraries](https://www.packtpub.com/product/learning-boost-c-libraries/9781783551217) (Arindam Mukherjee, 2015)
-* [Boost C++ Application Development Cookbook](https://www.packtpub.com/product/boost-c-application-development-cookbook/9781849514880) (Antony Polukhin, 2013)
+* [Boost C++ Application Development Cookbook 2nd Edition](https://www.amazon.com/dp/B06Y2WTZPR) (Antony Polukhin, 2017)
 * [The Art of Writing Efficient Programs](https://www.amazon.com/dp/1800208111) (Fedor G. Pikus, 2021)
 * [C++ Best Practices](https://leanpub.com/cppbestpractices) (Jason Turner, 2022)
 * [Beautiful C++: 30 Core Guidelines for Writing Clean, Safe, and Fast Code](https://www.amazon.com/dp/0137647840) (J. Davidson, Kate Gregory, 2021)
@@ -142,8 +143,9 @@ If you have 5+ years of experience, you should add these books to your library a
 C++ "template magic" books, mostly up-to-date with at least C++11 Standard.
 
 * [C++ Templates: The Complete Guide 2nd Edition](https://www.amazon.com/dp/0321714121) (David Vandevoorde, Nicolai Josuttis, 2017)
-* [Advanced C++ Metaprogramming](https://www.amazon.com/dp/1460966163) (Davide Di Gennaro, 2011)
+* [Advanced C++ Metaprogramming in Classic C++](https://www.amazon.com/dp/B01JCOFWD4) (Davide Di Gennaro, 2015)
 * [Practical C++ Metaprogramming](https://www.oreilly.com/library/view/practical-c-metaprogramming/9781492042778/) (Edouard Alligand, Joel Falcou, 2016)
+* [Template Metaprogramming with C++: Learn everything about C++ templates and unlock the power of template metaprogramming](https://www.amazon.com/dp/B09ZHZFTKV) (Marius Bancila, 2022)
 
 ## C++ Concurrency and Distributed Programming
 
@@ -151,12 +153,11 @@ Having a “multithreaded” type of mindset if necessary, if you work with mode
 
 * [C++ Concurrency in Action, Second Edition](https://www.amazon.com/dp/1617294691) (Anthony Williams, 2019)
 * [C++ Reactive Programming](https://www.amazon.com/dp/1788629779) (Praseed Pai, Peter Abraham, 2018)
-* [Parallel and Distributed Programming Using C++](https://www.amazon.com/dp/0131013769/) (Cameron Hughes, 2003)
 * [The Art of Multiprocessor Programming 2nd Edition](https://www.amazon.com/dp/0124159508) (Maurice Herlihy, 2020)
 * [C++ Multithreading Cookbook](https://www.packtpub.com/product/c-multithreading-cookbook/9781783289790) (Miloš Ljumović, 2014)
-* [Concurrency with Modern C++](https://leanpub.com/concurrencywithmodernc) (Rainer Grimm, 2021)
+* [Concurrency with Modern C++: What every professional C++ programmer should know about concurrency](https://www.amazon.com/dp/B0CT41Q1FF) (Rainer Grimm, 2024)
 
-## Low-Level High-Performance Optimizations
+## High-Performance Optimizations in C++
 
 C++ is a high-performance language by itself, however, there are plenty of usecases when the "default high-performance" is just not enough. Usually such topics are considered in the literature on parallel programming, but it includes an important subset concentrating exactly on low-level performance techniques relying on hardware (SIMD, CPU cache, process affinity), rather than software implementation of multithreaded algorithms.
 
@@ -211,7 +212,6 @@ Many C++20 features could be considered truly revolutionary, changing old good C
 
 * [Modern C++ Programming Cookbook 3rd Edition](https://www.amazon.com/dp/1835080545) (Marius Bancila, 2024)
 
-
 ## Software Design and Design Patterns in C++
 
 Software design and architecture in C++ came a long way from the GoF book, released in 1994. Since then, some design patterns became just language features, some are changed beyond recognition - that's why it's vital to consider new language features, thinking of implementing a particular software design solution.
@@ -229,8 +229,7 @@ Software design and architecture in C++ came a long way from the GoF book, relea
 
 Books on C++ GUI frameworks and desktop programming in general. Some are featuring cross-platform approach, taking advantage of the system-independent nature of C++, some are Windows-specific.
 
-* [Qt5 C++ GUI Programming Cookbook](https://www.amazon.com/dp/1789803829) (Lee Zhi Eng, 2019)
-* [Mastering Qt 5](https://www.amazon.com/dp/1788995392) (Guillaume Lazar, 2018)
+* [Qt 6 C++ GUI Programming Cookbook - Third Edition: Practical recipes for building cross-platform GUI applications, widgets, and animations](https://www.amazon.com/dp/1805122630) (Lee Zhi Eng, 2024)
 * [Advanced Qt Programming](https://www.amazon.com/dp/0134670876) (Mark Summerfield, 2016)
 * [Programming Windows 10 Via UWP](https://www.amazon.com/dp/1973438771) (Roger Deutsch, 2017)
 
@@ -266,7 +265,6 @@ Kernel-level Windows programming. New approaches and technologies are provided w
 
 * [Windows Internals, Part 1: System architecture, processes, threads, memory management](https://www.amazon.com/dp/0735684189) (Pavel Yosifovich, 2017)
 * [Windows Internals, Part 2](https://www.amazon.com/dp/0135462401) (Andrea Allievi, Mark Russinovich, 2021)
-* [Developing Drivers with the Windows Driver Foundation](https://www.amazon.com/dp/0735623740) (Penny Orwick, 2007)
 * [Windows Kernel Programming](https://www.amazon.com/dp/B08WZHBQYC) (Pavel Yosifovich, 2021)
 
 ## Linux System Programming
@@ -281,7 +279,6 @@ System user-space programming for Linux and POSIX systems in general. Some are n
 * [The Art of UNIX Programming](https://www.amazon.com/dp/0131429019) (Eric Raymond, 2003)
 * [Hands-On System Programming with C++](https://www.amazon.com/dp/B07GVNFTWD) (Rian Quinn, 2018)
 * [Hands-On System Programming with Linux](https://www.amazon.com/dp/1788998472) (Kaiwan N Billimoria, 2018)
-* [Advanced Linux Programming](https://www.amazon.com/dp/0735710430) (CodeSourcery LLC, 2001)
 
 ## Linux Kernel Programming
 
@@ -289,7 +286,7 @@ The comprehensive reading list for Linux kernel-space programming. The choice is
 
 * [Linux Kernel Development](https://www.amazon.com/dp/0672329468) (Jack-Benny Persson, 2021)
 * [Linux Kernel Networking: Implementation and Theory ](https://www.amazon.com/dp/143026196X) (Rami Rosen, 2013)
-* [Linux Kernel Programming](https://www.amazon.com/dp/178995343X) (Kaiwan N Billimoria, 2021)
+* [Linux Kernel Programming - Second Edition: A comprehensive and practical guide to kernel internals, writing modules, and kernel synchronization](https://www.amazon.com/dp/1803232226) (Kaiwan N Billimoria, 2024)
 * [Linux Kernel Programming Part 2 - Char Device Drivers and Kernel Synchronization](https://www.amazon.com/dp/180107951X) (Kaiwan N Billimoria, 2021)
 * [Linux Kernel Debugging](https://www.amazon.com/dp/1801075034) (Kaiwan N Billimoria, 2022)
 * [Mastering Linux Device Driver Development](https://www.amazon.com/dp/178934204X) (John Madieu, 2021)
@@ -322,7 +319,7 @@ C/C++ network programming is an extremely important area of knowledge, due to th
 These books cover cross-platform APIs for rendering 2D and 3D graphics. All graphical system-level APIs, both modern and legacy, offer either C (OpenGL) or C++ (Direct3D) interfaces. The reason is again, the exceptional performance of C/C++ and the ability to squeeze the maximum of available graphical hardware.
 
 * [OpenGL 4 Shading Language Cookbook](https://www.amazon.com/dp/1789342252) (David Wolff, 2020)
-* [Computer Graphics Programming in OpenGL with C++](https://www.amazon.com/dp/1683922212) (V. Scott Gordon, 2018)
+* [Computer Graphics Programming in OpenGL with C++ 3rd Edition](https://www.amazon.com/dp/1501522590) (V. Scott Gordon, 2024)
 * [Learn OpenGL](https://www.amazon.com/dp/9090332561) (Joey de Vries, 2020)
 * [Direct3D Rendering Cookbook](https://www.amazon.com/dp/B00HYQFGYI) (Justin Stenning, 2014)
 * [Introduction to 3D Game Programming with DirectX 12](https://www.amazon.com/dp/1942270062) (Frank Luna, 2016)
@@ -341,6 +338,8 @@ Game development could be considered as a derivative of C++ Computer Graphics, h
 * [Unreal Engine 4 Virtual Reality Projects](https://www.amazon.com/dp/1789132878) (Kevin Mack, 2019)
 * [Unreal Engine 4 Scripting with C++ Cookbook](https://www.packtpub.com/product/unreal-engine-4-scripting-with-c-cookbook/9781785885549) (William Sherif , Stephen Whittle, 2016)
 * [Unreal Engine C++ the Ultimate Developer's Handbook](https://www.amazon.com/dp/B089M2H7J1) (Stephen Seth Ulibarri, 2020)
+* [Unreal Engine 5 Game Development with C++ Scripting: Become a professional game developer and create fully functional, high-quality games](https://www.amazon.com/dp/1804613932) (Zhenyu George Li, 2023)
+* [Game Development Patterns with Unreal Engine 5: Build maintainable and scalable systems with C++ and Blueprint](https://www.amazon.com/dp/1803243252) (Stuart Butler, Tom Oliver, ,2024)
 
 ## Financial Applications of C++
 
