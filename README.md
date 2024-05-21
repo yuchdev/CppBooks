@@ -76,6 +76,7 @@ However, every C++ Standard has a number of drafts before the release, and usual
 * [C++14](https://raw.githubusercontent.com/cplusplus/draft/master/papers/n4296.pdf) 
 * [C++17](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4659.pdf)
 * [C++20](https://isocpp.org/files/papers/N4860.pdf)
+* [C++23](https://open-std.org/jtc1/sc22/wg21/docs/papers/2023/n4950.pdf)
 * [cppreference.com](https://en.cppreference.com/w/) (and [offline version](https://en.cppreference.com/w/Cppreference:Archives))
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 * [ISO C++ FAQ](https://isocpp.org/faq)
@@ -371,7 +372,7 @@ Our allies from the non-OOP world. The emphasis of selected books made on new fe
 
 ## Old and Classic books on C++
 
-No comments here. Some books are just valuable pieces of the history of C++ language, some still keep never-aging ideas and solutions.
+No comments here. These books are valuable pieces of the history of C++ language, some still keep never-aging ideas and solutions.
 
 * [Effective C++: 50 Specific Ways to Improve Your Programs and Designs Subsequent Edition](https://www.amazon.com/dp/0201924889) (Scott Meyers, 1997)
 * [More Effective C++: 35 New Ways to Improve Your Programs and Designs](https://www.amazon.com/dp/020163371X) (Scott Meyers, 1996)
