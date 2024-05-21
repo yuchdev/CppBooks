@@ -105,7 +105,7 @@ and willing to become familiar with C++
 
 These books could be considered a "must-read" list for any kind of C++ programmer. Some of them are a bit outdated, as they cover previous versions of the C++ Standard - in this case, just skip outdated content, or better re-implement it using new features of the language.
 
-* [Professional C++ 5th Edition](https://www.amazon.com/dp/1119695406/) (Marc Gregoire, 2021)
+* [Professional C++ 6th Edition](https://www.amazon.com/dp/1394193173) (Marc Gregoire, 2024)
 * [C++ Common Knowledge: Essential Intermediate Programming](https://www.amazon.com/dp/0321321928) (Stephen C. Dewhurst, 2005)
 * [C++ Cookbook: Solutions and Examples for C++ Programmers](https://www.amazon.com/dp/0596007612) (D. Ryan Stephens, 2005)
 * [Effective C++: 55 Specific Ways to Improve Your Programs and Designs 3rd Edition](https://www.amazon.com/dp/0321334876) (Scott Meyers, 2005)
@@ -205,6 +205,11 @@ Many C++20 features could be considered truly revolutionary, changing old good C
 * [C++20 - The Complete Guide](https://leanpub.com/cpp20) (Nicolai M. Josuttis)
 * [C++ Concepts](https://leanpub.com/cppconcepts) (Sandor Dargo, 2022)
 * [C++ Programming Cookbook](https://www.amazon.com/dp/B0CYCV5748) (Anais Sutherland, 2024)
+
+## Latest Features Review: C++23
+
+* [Modern C++ Programming Cookbook 3rd Edition](https://www.amazon.com/dp/1835080545) (Marius Bancila, 2024)
+
 
 ## Software Design and Design Patterns in C++
 
