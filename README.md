@@ -210,7 +210,6 @@ Many C++20 features could be considered truly revolutionary, changing old good C
 
 Software design and architecture in C++ came a long way from the GoF book, released in 1994. Since then, some design patterns became just language features, some are changed beyond recognition - that's why it's vital to consider new language features, thinking of implementing a particular software design solution.
 
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/dp/0201633612) (Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, 1994)
 * [Hands-On Design Patterns with C++ 2nd Edition](https://www.amazon.com/dp/1804611557) (Fedor G. Pikus, 2023)
 * [Design Patterns in Modern C++](https://www.amazon.com/dp/1484236025) (Dmitri Nesteruk, 2018)
 * [Software Architecture with C++](https://www.packtpub.com/product/software-architecture-with-c/9781838554590) (Adrian Ostrowski , Piotr Gaczkowski, 2021)
