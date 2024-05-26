@@ -345,7 +345,7 @@ Game development could be considered as a derivative of C++ Computer Graphics, h
 
 C++ is a popular choice for financial applications for pretty much the same reason as for other industries, requiring fast execution, fine-grained memory management, and access close to computer hardware. For decades it was the only viable choice for financial instruments pricing, risk management and algorithmic trading.
 
-* [Financial Instrument Pricing Using C++](https://www.amazon.com/dp/0470855096) (Daniel J. Duffy, 2004)
+* [Financial Instrument Pricing Using C++ 2nd Edition](https://www.amazon.com/dp/B07H51DPQP) (Daniel J. Duffy, 2018)
 * [Quantitative Finance: An Object-Oriented Approach in C++](https://www.amazon.com/dp/1584884797) (Erik Schlogl, 2013)
 * [Building Financial Risk Management Applications with C++](https://www.amazon.com/dp/147835075X) (Robert Brooks, 2013)
 * [C++ for Financial Mathematics](https://www.amazon.com/dp/B01N4V75RJ) (John Armstrong, 2017)
@@ -371,7 +371,7 @@ Our allies from the non-OOP world. The emphasis of selected books made on new fe
 
 ## Old and Classic books on C++
 
-No comments here. These books are valuable pieces of the history of C++ language, some still keep never-aging ideas and solutions.
+These books are valuable pieces of the history of C++ language, some still keep never-aging ideas and solutions.
 
 * [Effective C++: 50 Specific Ways to Improve Your Programs and Designs Subsequent Edition](https://www.amazon.com/dp/0201924889) (Scott Meyers, 1997)
 * [More Effective C++: 35 New Ways to Improve Your Programs and Designs](https://www.amazon.com/dp/020163371X) (Scott Meyers, 1996)
