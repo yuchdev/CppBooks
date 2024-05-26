@@ -222,7 +222,7 @@ Software design and architecture in C++ came a long way from the GoF book, relea
 * [Large-Scale C++ Volume I: Process and Architecture](https://www.amazon.com/dp/0201717069) (John Debbie Lafferty, 2019)
 * [Large-Scale C++ Volume II: Design and Implementation](https://www.amazon.com/dp/0134694694) (John Debbie Lafferty, 2021)
 * [API Design for C++](https://www.amazon.com/dp/B004NNUZ6O/) (Martin Reddy, 2011)
-* [Object-Oriented Software Design in C++](https://www.amazon.com//dp/163343950X/) (Ronald Mak, 2024)
+* [Object-Oriented Software Design in C++](https://www.amazon.com/dp/163343950X/) (Ronald Mak, 2024)
 * [C++ Software Design: Design Principles and Patterns for High-Quality Software](https://www.amazon.com/dp/1098113160) (Klaus Iglberger, 2022)
 
 ## GUI Programming
