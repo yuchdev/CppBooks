@@ -14,7 +14,7 @@
 7. [Advanced Books on C++](#advanced-books-on-c)
 8. [C++ Templates and Metaprogramming](#c-templates-and-metaprogramming)
 9. [C++ Concurrency and Distributed Programming](#c-concurrency-and-distributed-programming)
-10. [High-Performance Optimizations](#high-performance-optimizations)
+10. [High-Performance Optimizations in C++](#high-performance-optimizations-in-c)
 11. [Algorithms in C and C++](#algorithms-in-c-and-c)
 12. [Latest Features Review: C++11/14](#latest-features-review-c1114)
 13. [Latest Features Review: C++17](#latest-features-review-c17)
